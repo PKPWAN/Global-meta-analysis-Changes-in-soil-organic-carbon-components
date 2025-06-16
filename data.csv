@@ -1,0 +1,927 @@
+﻿ID,Reference,Journal,Year,Main Author,Country,latitude,longitude,OrganicCarbonClassification,controlmean,controlsd,treatmentmean,treatmentsd,controln,treatmentn,Notillageyears,fertilize kgN/ha,monoculture,Layer,layer,Altitude-m,MAT°C,MAP mm,BD,soil types,pH,Texture
+1,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,MAOC,8.95,0.54,15.41,1.19,5,5,10,,Yes,0-20,Top,550,21.92500003,1425,1.690000057,Rhodic Hapludox,5.59,clay
+2,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,MAOC,11.84,0.92,16.54,1.1,5,5,10,,Yes,0-20,Top,550,21.92500003,1425,1.690000057,Rhodic Hapludox,5.59,clay
+3,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,MAOC,11.19,1.05,15.24,0.92,5,5,10,,Yes,0-20,Top,550,21.92500003,1425,1.690000057,Rhodic Hapludox,5.59,clay
+4,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,MAOC,9.09,0.76,14.3,0.92,5,5,10,,Yes,20-40,Sub,550,21.92500003,1425,1.820000052,Rhodic Hapludox,7.4,clay
+5,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,POC,3.23,0.36,5.62,0.42,5,5,10,,Yes,0-20,Top,550,21.92500003,1425,1.690000057,Rhodic Hapludox,5.59,clay
+6,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,POC,3.18,0.36,3.21,0.25,5,5,10,,Yes,0-20,Top,550,21.92500003,1425,1.690000057,Rhodic Hapludox,5.59,clay
+7,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,POC,2.41,0.29,2.66,0.2,5,5,10,,Yes,0-20,Top,550,21.92500003,1425,1.690000057,Rhodic Hapludox,5.59,clay
+8,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,POC,2.01,0.27,2.49,0.2,5,5,10,,Yes,20-40,Sub,550,21.92500003,1425,1.820000052,Rhodic Hapludox,7.4,clay
+9,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,SOC,12.18,2.064530241,21.03,4.429138245,5,5,10,,Yes,0-20,Top,550,21.92500003,1425,1.690000057,Rhodic Hapludox,5.59,clay
+10,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,SOC,15.02,2.545914961,19.75,4.15955684,5,5,10,,Yes,0-20,Top,550,21.92500003,1425,1.690000057,Rhodic Hapludox,5.59,clay
+11,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,SOC,13.6,2.305222601,17.9,3.769927465,5,5,10,,Yes,0-20,Top,550,21.92500003,1425,1.690000057,Rhodic Hapludox,5.59,clay
+12,"Do fallow in the off-season and crop succession promote differences in soil
+aggregation in no-tillage systems?",Geoderma,2022,Mariele Monique Honorato Fernandes,Brazil,-21.23472222,-48.28472222,SOC,11.1,1.881468446,16.79,3.53614984,5,5,10,,Yes,20-40,Sub,550,21.92500003,1425,1.820000052,Rhodic Hapludox,7.4,clay
+13,"Limited impacts of occasional tillage on dry aggregate size distribution
+and soil carbon and nitrogen fractions in semi-arid drylands",International Soil and Water Conservation Research,2024,Wooiklee S. Paye,USA,34.58333333,-103.2,MAOC,6.01,0.26,6.59,0.36,4,4,2,34,No,0-20,Top,1348,13.24999998,241,1.54,,7,clayloam
+14,"Limited impacts of occasional tillage on dry aggregate size distribution
+and soil carbon and nitrogen fractions in semi-arid drylands",International Soil and Water Conservation Research,2024,Wooiklee S. Paye,USA,34.58333333,-103.2,POC,1.55,0.36,1.41,0.16,4,4,2,34,No,0-20,Top,1348,13.24999998,241,1.54,,7,clayloam
+15,"Limited impacts of occasional tillage on dry aggregate size distribution
+and soil carbon and nitrogen fractions in semi-arid drylands",International Soil and Water Conservation Research,2024,Wooiklee S. Paye,USA,34.58333333,-103.2,SOC,7.56,1.281432563,8,1.684883783,4,4,2,34,No,0-20,Top,1348,13.24999998,241,1.54,,7,clayloam
+16,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,MAOC,5.11,0.19,5.63,0.4,3,3,17,105,Yes,0-20,Top,1137,7.733333411,400,1.06,Calcaric-Fluvic Cambisols ,,clayloam
+17,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,MAOC,5.3,0.19,6.46,0.35,3,3,17,180,Yes,0-20,Top,1137,7.733333411,400,1.06,Calcaric-Fluvic Cambisols ,,clayloam
+18,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,MAOC,5.9,0.24,7,0.24,3,3,17,210,Yes,0-20,Top,1137,7.733333411,400,1.06,Calcaric-Fluvic Cambisols ,,clayloam
+19,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,MAOC,4.62,0.19,4.92,0.24,3,3,17,105,Yes,0-20,Top,1137,7.733333411,400,1.2,Calcaric-Fluvic Cambisols ,,clayloam
+20,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,MAOC,5.21,0.19,5.01,0.24,3,3,17,180,Yes,0-20,Top,1137,7.733333411,400,1.2,Calcaric-Fluvic Cambisols ,,clayloam
+21,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,MAOC,5.01,0.24,5.52,0.2,3,3,17,210,Yes,0-20,Top,1137,7.733333411,400,1.2,Calcaric-Fluvic Cambisols ,,clayloam
+22,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,POC,12.77,0.28,13.59,0.57,3,3,17,105,Yes,0-20,Top,1137,7.733333411,400,1.06,Calcaric-Fluvic Cambisols ,,clayloam
+23,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,POC,14.95,0.38,17.07,0.47,3,3,17,180,Yes,0-20,Top,1137,7.733333411,400,1.06,Calcaric-Fluvic Cambisols ,,clayloam
+24,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,POC,16.14,0.47,18.7,0.38,3,3,17,210,Yes,0-20,Top,1137,7.733333411,400,1.06,Calcaric-Fluvic Cambisols ,,clayloam
+25,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,POC,11.56,0.45,12.79,0.45,3,3,17,105,Yes,0-20,Top,1137,7.733333411,400,1.2,Calcaric-Fluvic Cambisols ,,clayloam
+26,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,POC,12.27,0.45,15.71,0.45,3,3,17,180,Yes,0-20,Top,1137,7.733333411,400,1.2,Calcaric-Fluvic Cambisols ,,clayloam
+27,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,POC,13.12,0.68,16.95,0.45,3,3,17,210,Yes,0-20,Top,1137,7.733333411,400,1.2,Calcaric-Fluvic Cambisols ,,clayloam
+28,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,SOC,17.88,3.030689713,19.22,4.047933289,3,3,17,105,Yes,0-20,Top,1137,7.733333411,400,1.06,Calcaric-Fluvic Cambisols ,,clayloam
+29,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,SOC,20.25,3.432408652,23.53,4.955664427,3,3,17,180,Yes,0-20,Top,1137,7.733333411,400,1.06,Calcaric-Fluvic Cambisols ,,clayloam
+30,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,SOC,22.04,3.735816627,25.7,5.412689154,3,3,17,210,Yes,0-20,Top,1137,7.733333411,400,1.06,Calcaric-Fluvic Cambisols ,,clayloam
+31,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,SOC,16.18,2.742536888,17.71,3.729911475,3,3,17,105,Yes,0-20,Top,1137,7.733333411,400,1.2,Calcaric-Fluvic Cambisols ,,clayloam
+32,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,SOC,17.48,2.962889049,20.72,4.363848999,3,3,17,180,Yes,0-20,Top,1137,7.733333411,400,1.2,Calcaric-Fluvic Cambisols ,,clayloam
+33,"Nitrogen addition mediates the effect of soil microbial
+diversity on microbial carbon use efficiency under long term tillage practices",Land Degradation & Development,2022,Mengni Zhang,CHINA,37.97,113.11,SOC,18.13,3.073065129,22.47,4.732417326,3,3,17,210,Yes,0-20,Top,1137,7.733333411,400,1.2,Calcaric-Fluvic Cambisols ,,clayloam
+34,"TILLAGE EFFECT ON SOIL ORGANIC MATTER,
+MYCORRHIZAL HYPHAE AND AGGREGATES IN A
+MEDITERRANEAN AGROECOSYSTEM",,2010,Gustavo Curaqueo,Chile,-33.66666667,-70.63333333,MAOC,5.07,0.89,6.38,1.49,10,10,6,,No,0-20,Top,753,14.85833327,330,1.769999981,,8,loam
+35,"Organic matter distribution in aggregate sizes of a mollisol
+under contrasting managements",Journal of Soil Science and Plant Nutrition,2011,M. Mandiola,Argentina,-37.9025,-58.31333333,MAOC,28.81,2.06,30.1,1.71,10,10,18,120,No,0-20,Top,138,13.9,950,1.779999971,"Luvic Phaeozem (FAO
+Classification)",6.2,loam
+36,"Organic matter distribution in aggregate sizes of a mollisol
+under contrasting managements",Journal of Soil Science and Plant Nutrition,2011,M. Mandiola,Argentina,-37.9025,-58.31333333,MAOC,27.3,2.06,28.06,1.36,10,10,18,120,No,0-20,Top,138,13.9,950,1.779999971,"Luvic Phaeozem (FAO
+Classification)",6.2,loam
+37,"Organic matter distribution in aggregate sizes of a mollisol
+under contrasting managements",Journal of Soil Science and Plant Nutrition,2011,M. Mandiola,Argentina,-37.9025,-58.31333333,MAOC,27.84,2.06,28.6,1.36,10,10,18,120,No,0-20,Top,138,13.9,950,1.779999971,"Luvic Phaeozem (FAO
+Classification)",6.2,loam
+38,"Organic matter distribution in aggregate sizes of a mollisol
+under contrasting managements",Journal of Soil Science and Plant Nutrition,2011,M. Mandiola,Argentina,-37.9025,-58.31333333,POC,3.88,1.36,5.17,1.71,10,10,18,120,No,0-20,Top,138,13.9,950,1.779999971,"Luvic Phaeozem (FAO
+Classification)",6.2,loam
+39,"Organic matter distribution in aggregate sizes of a mollisol
+under contrasting managements",Journal of Soil Science and Plant Nutrition,2011,M. Mandiola,Argentina,-37.9025,-58.31333333,POC,2.69,1.36,5.17,1.71,10,10,18,120,No,0-20,Top,138,13.9,950,1.779999971,"Luvic Phaeozem (FAO
+Classification)",6.2,loam
+40,"Organic matter distribution in aggregate sizes of a mollisol
+under contrasting managements",Journal of Soil Science and Plant Nutrition,2011,M. Mandiola,Argentina,-37.9025,-58.31333333,POC,3.01,1.01,4.84,1.71,10,10,18,120,No,0-20,Top,138,13.9,950,1.779999971,"Luvic Phaeozem (FAO
+Classification)",6.2,loam
+41,"CARBON STOCKS IN ORGANIC MATTER FRACTIONS AS AFFECTED BY LAND
+USE AND SOIL MANAGEMENT, WITH EMPHASIS ON NO-TILLAGE EFFECT",,2002,Cimélio Bayer,Brazil,-27.25,-50.33333333,MAOC,3.407692308,0.03,4.584615385,0.19,3,3,10,,No,0-20,Top,1100,16,2061,1.75,Hapludox,6.9,clayloam
+42,"Water-Stable Aggregates and Organic Matter Fractions in Conventional-
+and No-Tillage Soils",,1994,M. H. Beare,USA,33.9,-83.4,MAOC,18.92,3.44,22.8,4.3,4,4,13,100,No,0-20,Top,202,16.54166663,1270,1.38,,5.199999809,sandyclayloam
+43,"Water-Stable Aggregates and Organic Matter Fractions in Conventional-
+and No-Tillage Soils",,1994,M. H. Beare,USA,33.9,-83.4,MAOC,17.73,3.46,13.41,3.46,4,4,13,100,No,0-20,Top,202,16.54166663,1270,1.51,,5.199999809,sandyclayloam
+44,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,MAOC,8.11,1.4,14.59,0.63,3,3,14,105,Yes,0-20,Top,997,9.725000232,484,1.710000038,Calcaric-Fluvic Cambisol,8,sandyloam
+45,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,MAOC,7.87,0.29,13.13,1.02,3,3,14,105,Yes,0-20,Top,997,9.725000232,484,1.710000038,Calcaric-Fluvic Cambisol,8,sandyloam
+46,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,MAOC,7.1,0.47,8.8,0.82,3,3,14,105,Yes,20-40,Sub,997,9.725000232,484,1.74000001,Calcaric-Fluvic Cambisol,8.199999809,sandyloam
+47,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,MAOC,4.75,0.52,4.56,0.34,3,3,14,105,Yes,40-60,Sub,997,9.725000232,484,1.74000001,Calcaric-Fluvic Cambisol,8.300000191,sandyloam
+48,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,MAOC,5.19,0.76,3.55,0.24,3,3,14,105,Yes,60-80,Sub,997,9.725000232,484,1.730000019,Calcaric-Fluvic Cambisol,8.300000191,sandyloam
+49,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,MAOC,4.58,0.52,3,0.67,3,3,14,105,Yes,80-100,Sub,997,9.725000232,484,1.730000019,Calcaric-Fluvic Cambisol,8.300000191,sandyloam
+50,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,SOC,17.4556213,0.295857988,20.88757396,0.414201183,3,3,14,105,Yes,0-20,Top,997,9.725000232,484,1.710000038,Calcaric-Fluvic Cambisol,8,sandyloam
+51,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,SOC,16.33136095,0.473372781,19.34911243,0.295857988,3,3,14,105,Yes,0-20,Top,997,9.725000232,484,1.710000038,Calcaric-Fluvic Cambisol,8,sandyloam
+52,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,SOC,13.37278107,0.591715976,13.84615385,0.295857988,3,3,14,105,Yes,20-40,Sub,997,9.725000232,484,1.74000001,Calcaric-Fluvic Cambisol,8.199999809,sandyloam
+53,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,SOC,7.573964497,0.473372781,9.289940828,0.591715976,3,3,14,105,Yes,40-60,Sub,997,9.725000232,484,1.74000001,Calcaric-Fluvic Cambisol,8.300000191,sandyloam
+54,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,SOC,5.325443787,0.355029586,4.082840237,0.177514793,3,3,14,105,Yes,60-80,Sub,997,9.725000232,484,1.730000019,Calcaric-Fluvic Cambisol,8.300000191,sandyloam
+55,"Distribution of soil aggregates and organic carbon in
+deep soil under long-term conservation tillage with
+residual retention in dryland",Journal of Arid Land,2019,WANG Bisheng,CHINA,37,112,SOC,4.151785714,0.200892857,3.214285714,0.401785714,3,3,14,105,Yes,80-100,Sub,997,9.725000232,484,1.730000019,Calcaric-Fluvic Cambisol,8.300000191,sandyloam
+56,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,2.54,0.12,2.63,0.45,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+57,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,1.54,1.76,2.37,0.78,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+58,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,3.03,0.41,3.68,1.93,3,3,3,852,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+59,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,2.06,0.33,3.6,0.7,3,3,3,996,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+60,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,2.49,0.8,2.56,0.78,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+61,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,1.19,1.48,1.71,0.48,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+62,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,1.12,1.18,1.82,0.74,3,3,3,852,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+63,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,0.87,0.76,1.62,0.7,3,3,3,996,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+64,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,1.07,0.53,0.83,0.98,3,3,3,924,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+65,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,0.46,0.34,1.1,0.65,3,3,3,924,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+66,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,0.68,0.14,1.97,0.65,3,3,3,852,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+67,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,0.74,0.79,1.18,1.07,3,3,3,996,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+68,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,0.57,0.58,1.1,0.45,3,3,3,924,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+69,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,0.78,0.69,1.61,0.7,3,3,3,924,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+70,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,0.51,0.24,0.75,0.84,3,3,3,852,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+71,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,MAOC,1.81,0.15,1.83,0.65,3,3,3,996,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+72,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,3.06,0.33,3.72,0.21,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+73,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,3.51,0.74,3.74,0.66,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+74,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,3.27,0.33,2.7,1.23,3,3,3,852,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+75,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,3.72,0.25,3.89,0.45,3,3,3,996,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+76,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,1.87,1.08,2.17,0.7,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+77,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,2.19,1.16,1.93,0.78,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+78,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,2.2,0.8,1.89,0.6,3,3,3,852,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+79,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,2.55,0.46,2.08,0.38,3,3,3,996,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+80,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,1.3,0.14,1.15,0.34,3,3,3,924,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+81,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,1.39,0.48,1.33,0.77,3,3,3,924,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+82,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,1.34,0.29,1.36,0.69,3,3,3,852,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+83,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,1.48,0.26,1.68,0.55,3,3,3,996,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+84,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,1.5,0.09,1.12,0.15,3,3,3,924,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+85,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,1.21,0.41,0.73,0.12,3,3,3,924,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+86,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,1.37,0.43,0.71,0.57,3,3,3,852,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+87,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,POC,0.92,0.05,0.28,0.33,3,3,3,996,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+88,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,5.605859591,0.299207229,6.354431546,0.498678715,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+89,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,5.03003501,2.293922089,6.152892943,1.047225302,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+90,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,6.296849088,0.64828233,6.728717523,2.692865062,3,3,3,852,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+91,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,5.778606965,0.448810844,7.477289479,0.64828233,3,3,3,996,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+92,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,4.406896552,0.573368543,4.696551724,1.110901552,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+93,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,3.393103448,1.469256892,3.6,1.325914756,3,3,3,924,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+94,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,3.331034483,0.645039611,3.744827586,0.394190873,3,3,3,852,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+95,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,3.413793103,0.931723883,3.910344828,0.860052815,3,3,3,996,No,0-20,Top,20,13.1,531,1.700000048,Aquic Cambosol,7.900000095,siltyloam
+96,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,2.34439834,0.574954625,1.970954357,0.790562609,3,3,3,924,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+97,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,1.825726141,0.539019961,2.44813278,0.539019961,3,3,3,924,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+98,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,2.012448133,0.17967332,3.319502075,0.718693281,3,3,3,852,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+99,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,2.199170124,1.042105258,2.780082988,2.227949172,3,3,3,996,No,20-40,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+100,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,2.033195021,0.539019961,2.157676349,0.610889289,3,3,3,924,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+101,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,1.929460581,1.042105258,2.261410788,1.257713242,3,3,3,924,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+102,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,1.804979253,0.610889289,2.033195021,0.467150633,3,3,3,852,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+103,"Effects of Diversified Cropping Sequences and Tillage Practices
+on Soil Organic Carbon, Nitrogen, and Associated Fractions in the North China Plain",Journal of Soil Science and Plant Nutrition,2021,Ahmad Latif Virk,CHINA,37.6,116.35,SOC,2.676348548,0.215607984,1.991701245,1.078039922,3,3,3,996,No,40-60,Sub,20,13.1,531,1.710000038,Aquic Cambosol,8,siltyloam
+104,Long-term effects of tillage and nitrogen fertilization on soi C and N fractions in a corn–soybean rotation,Canadian Journal of Soil Science,2022,Mervin St. Luce,Canada,45.3,-73.35,MAOC,14.84,4,17.32,2.7,4,4,20,160,No,0-20,Top,39,6.2,984,1.590000033,,6.199999809,loam
+105,Long-term effects of tillage and nitrogen fertilization on soi C and N fractions in a corn–soybean rotation,Canadian Journal of Soil Science,2022,Mervin St. Luce,Canada,45.3,-73.35,POC,2.01,0.9,3.14,1.9,4,4,20,160,No,0-20,Top,39,6.2,984,1.590000033,,6.199999809,loam
+106,Long-term effects of tillage and nitrogen fertilization on soi C and N fractions in a corn–soybean rotation,Canadian Journal of Soil Science,2022,Mervin St. Luce,Canada,45.3,-73.35,SOC,16.88,4.2,20.62,3.2,4,4,20,160,No,0-20,Top,39,6.2,984,1.590000033,,6.199999809,loam
+107,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,MAOC,3.53,0.12,4.01,0.04,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+108,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,MAOC,5.38,0.11,3.82,0.1,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+109,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,MAOC,4.98,0.03,2.66,0.05,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+110,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,MAOC,3.91,0.02,2.7,0.02,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+111,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,MAOC,2.87,0.03,2.48,0,3,3,5,120,Yes,40-60,Sub,728,12.6,490,1.74000001,,8.300000191,loam
+112,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,MAOC,3.9,0.05,4.77,0.06,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+113,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,MAOC,3.87,0.07,4.17,0.02,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+114,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,MAOC,2.78,0.06,2.7,0.06,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+115,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,MAOC,2.06,0.04,1.83,0.06,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+116,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,MAOC,1.61,0.02,1.32,0.03,3,3,5,120,Yes,40-60,Sub,728,12.6,490,1.74000001,,8.300000191,loam
+117,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,POC,1.58,0.12,1.55,0.04,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+118,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,POC,1.73,0.11,1.6,0.1,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+119,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,POC,1.4,0.03,1.01,0.05,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+120,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,POC,0.99,0.02,0.35,0.02,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+121,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,POC,0.4,0.03,0.25,0,3,3,5,120,Yes,40-60,Sub,728,12.6,490,1.74000001,,8.300000191,loam
+122,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,POC,1.32,0.05,1.36,0.06,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+123,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,POC,1.51,0.07,1.04,0.02,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+124,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,POC,0.69,0.06,0.59,0.06,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+125,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,POC,0.06,0.02,0.1,0.03,3,3,5,120,Yes,40-60,Sub,728,12.6,490,1.74000001,,8.300000191,loam
+126,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,SOC,5.1,0.13,5.57,0,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+127,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,SOC,7.1,0.3,5.44,0.28,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+128,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,SOC,6.39,0.17,3.66,0.09,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+129,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,SOC,4.9,0.15,3.05,0.37,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+130,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,SOC,3.27,0.21,2.73,0.15,3,3,5,120,Yes,40-60,Sub,728,12.6,490,1.74000001,,8.300000191,loam
+131,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,SOC,5.21,0.14,6.13,0.09,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+132,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,SOC,5.39,0.11,5.23,0.28,3,3,5,120,Yes,0-20,Top,728,12.6,490,1.710000038,,8,loam
+133,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,SOC,3.46,0.12,3.28,0.09,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+134,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,SOC,2.71,0.12,2.07,0.2,3,3,5,120,Yes,20-40,Sub,728,12.6,490,1.74000001,,8.199999809,loam
+135,"Subsoiling during summer fallow in rainfed
+winter-wheat fields enhances soil organic
+carbon sequestration on the Loess Plateau in
+China",PLOS ONE,2021,Huiyu Zhang,CHINA,35.58333333,111.4666667,SOC,1.67,0.19,1.42,0.11,3,3,5,120,Yes,40-60,Sub,728,12.6,490,1.74000001,,8.300000191,loam
+136,"Carbon fractions as indicators of organic matter dynamics
+in chestnut orchards under different soil management
+practices",Agroforestry Systems,2017,Olga Borges,Portugal,41.88111111,-6.836388889,MAOC,11.18,2.21,10.24,2.37,16,16,17,,Yes,0-20,Top,907,12.3,758.3,1.75,,5.25,sandyloam
+137,"Carbon fractions as indicators of organic matter dynamics
+in chestnut orchards under different soil management
+practices",Agroforestry Systems,2017,Olga Borges,Portugal,41.88111111,-6.836388889,MAOC,9.34,1.58,8.27,1.54,16,16,17,,Yes,0-20,Top,907,12.3,758.3,1.75,,5.1,sandyloam
+138,"Carbon fractions as indicators of organic matter dynamics
+in chestnut orchards under different soil management
+practices",Agroforestry Systems,2017,Olga Borges,Portugal,41.88111111,-6.836388889,MAOC,10.26,2.11,9.26,2.21,16,16,17,,Yes,0-20,Top,907,12.3,758.3,1.75,,5.099999905,sandyloam
+139,"Carbon fractions as indicators of organic matter dynamics
+in chestnut orchards under different soil management
+practices",Agroforestry Systems,2017,Olga Borges,Portugal,41.88111111,-6.836388889,POC,3.22,0.9,4.57,1.48,16,16,17,,Yes,0-20,Top,907,12.3,758.3,1.75,,5.25,sandyloam
+140,"Carbon fractions as indicators of organic matter dynamics
+in chestnut orchards under different soil management
+practices",Agroforestry Systems,2017,Olga Borges,Portugal,41.88111111,-6.836388889,POC,1.44,0.24,1.58,0.31,16,16,17,,Yes,0-20,Top,907,12.3,758.3,1.75,,5.1,sandyloam
+141,"Carbon fractions as indicators of organic matter dynamics
+in chestnut orchards under different soil management
+practices",Agroforestry Systems,2017,Olga Borges,Portugal,41.88111111,-6.836388889,SOC,14.8,1.85,15.31,3.82,16,16,17,,Yes,0-20,Top,907,12.3,758.3,1.75,,5.25,sandyloam
+142,"Carbon fractions as indicators of organic matter dynamics
+in chestnut orchards under different soil management
+practices",Agroforestry Systems,2017,Olga Borges,Portugal,41.88111111,-6.836388889,SOC,10.89,1.83,9.77,1.34,16,16,17,,Yes,0-20,Top,907,12.3,758.3,1.75,,5.1,sandyloam
+143,"Carbon fractions as indicators of organic matter dynamics
+in chestnut orchards under different soil management
+practices",Agroforestry Systems,2017,Olga Borges,Portugal,41.88111111,-6.836388889,SOC,12.85,2.69,12.54,3.98,16,16,17,,Yes,0-20,Top,907,12.3,758.3,1.75,,5.099999905,sandyloam
+144,"Tillage and Cover Cropping Effects on Aggregate-
+Protected Carbon in Cotton and Tomato",Soil Science Society of America Journal,2007,Jessica J. Veenstra,USA,36.34138889,-120.1205556,MAOC,3.93,0.37,5.1,0.52,8,8,6,,No,0-20,Top,85,17.00833348,180,1.690000057,,7.5,clayloam
+145,"Tillage and Cover Cropping Effects on Aggregate-
+Protected Carbon in Cotton and Tomato",Soil Science Society of America Journal,2007,Jessica J. Veenstra,USA,36.34138889,-120.1205556,MAOC,4.17,0.88,3.7,0.44,8,8,6,,No,0-20,Top,85,17.00833348,180,1.690000057,,7.5,clayloam
+146,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,MAOC,1.707692308,0.11,1.646153846,0.14,2,2,10,140,No,0-20,Top,581,18,1800,1.809999943,Nitossolo Vermelho distrofsamrrico,5.3,loam
+147,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,MAOC,2.707692308,0.16,2.446153846,0.22,2,2,10,140,No,0-20,Top,581,18,1800,1.809999943,Nitossolo Vermelho distrofsamrrico,5.3,loam
+148,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,MAOC,1.576923077,0.19,1.353846154,0.1,2,2,10,140,No,0-20,Top,581,18,1800,1.809999943,Nitossolo Vermelho distrofsamrrico,6.699999809,loam
+149,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,MAOC,1.3,0.13,1.384615385,0.08,2,2,10,140,No,20-40,Sub,581,18,1800,1.960000038,Nitossolo Vermelho distrofsamrrico,6.400000095,clay
+150,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,POC,2.230769231,0.19,4.523076923,0.35,2,2,10,140,No,0-20,Top,581,18,1800,1.809999943,Nitossolo Vermelho distrofsamrrico,5.3,loam
+151,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,POC,2.138461538,0.19,3.492307692,0.33,2,2,10,140,No,0-20,Top,581,18,1800,1.809999943,Nitossolo Vermelho distrofsamrrico,5.3,loam
+152,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,POC,0.892307692,0.12,1.769230769,0.11,2,2,10,140,No,0-20,Top,581,18,1800,1.809999943,Nitossolo Vermelho distrofsamrrico,6.699999809,loam
+153,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,POC,0.661538462,0.14,1.353846154,0.12,2,2,10,140,No,20-40,Sub,581,18,1800,1.960000038,Nitossolo Vermelho distrofsamrrico,6.400000095,clay
+154,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,SOC,3.938461538,0.667575776,6.169230769,1.29930461,2,2,10,140,No,0-20,Top,581,18,1800,1.809999943,Nitossolo Vermelho distrofsamrrico,5.3,loam
+155,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,SOC,4.846153846,0.82143113,5.938461538,1.250702193,2,2,10,140,No,0-20,Top,581,18,1800,1.809999943,Nitossolo Vermelho distrofsamrrico,5.3,loam
+156,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,SOC,2.469230769,0.418538719,3.123076923,0.657752708,2,2,10,140,No,0-20,Top,581,18,1800,1.809999943,Nitossolo Vermelho distrofsamrrico,6.699999809,loam
+157,Carbon and nitrogen stocks in a Rhodic Nitisol under different tillage methods and mineral and organic fertilizers,Revista Brasileira De Ciência Do Solo,2023,Camila Rosana Wuaden,Brazil,-27.31472222,-51.99027778,SOC,1.961538462,0.332484029,2.738461538,0.57674868,2,2,10,140,No,20-40,Sub,581,18,1800,1.960000038,Nitossolo Vermelho distrofsamrrico,6.400000095,clay
+158,"IMPACT OF CONSERVATION TILLAGE ON ORGANIC MATTER DYNAMICS IN
+LOESS DRYLAND SOIL, PUNJAB, PAKISTAN",The Journal of Animal and Plant Sciences,2022,I. Naz,Pakistan,33.6,73.03333333,MAOC,3.71,0.52,4.43,0.3,4,4,2,,Yes,0-20,Top,517,21.60833359,948,,,,sandyclayloam
+159,"IMPACT OF CONSERVATION TILLAGE ON ORGANIC MATTER DYNAMICS IN
+LOESS DRYLAND SOIL, PUNJAB, PAKISTAN",The Journal of Animal and Plant Sciences,2022,I. Naz,Pakistan,33.6,73.03333333,MAOC,3.94,0.31,4.56,0.5,4,4,2,,No,0-20,Top,517,21.60833359,948,,,,sandyclayloam
+160,"IMPACT OF CONSERVATION TILLAGE ON ORGANIC MATTER DYNAMICS IN
+LOESS DRYLAND SOIL, PUNJAB, PAKISTAN",The Journal of Animal and Plant Sciences,2022,I. Naz,Pakistan,33.6,73.03333333,MAOC,3.59,0.25,4.66,0.31,4,4,2,,Yes,0-20,Top,517,21.60833359,948,,,,sandyclayloam
+161,"IMPACT OF CONSERVATION TILLAGE ON ORGANIC MATTER DYNAMICS IN
+LOESS DRYLAND SOIL, PUNJAB, PAKISTAN",The Journal of Animal and Plant Sciences,2022,I. Naz,Pakistan,33.6,73.03333333,MAOC,3.53,0.31,4.81,0.31,4,4,2,,No,0-20,Top,517,21.60833359,948,,,,sandyclayloam
+162,"IMPACT OF CONSERVATION TILLAGE ON ORGANIC MATTER DYNAMICS IN
+LOESS DRYLAND SOIL, PUNJAB, PAKISTAN",The Journal of Animal and Plant Sciences,2022,I. Naz,Pakistan,33.6,73.03333333,MAOC,3.75,0.3,4.7,0.45,4,4,2,,Yes,0-20,Top,517,21.60833359,948,,,,sandyclayloam
+163,"IMPACT OF CONSERVATION TILLAGE ON ORGANIC MATTER DYNAMICS IN
+LOESS DRYLAND SOIL, PUNJAB, PAKISTAN",The Journal of Animal and Plant Sciences,2022,I. Naz,Pakistan,33.6,73.03333333,MAOC,3.64,0.45,4.92,0.3,4,4,2,,No,0-20,Top,517,21.60833359,948,,,,sandyclayloam
+164,"IMPACT OF CONSERVATION TILLAGE ON ORGANIC MATTER DYNAMICS IN
+LOESS DRYLAND SOIL, PUNJAB, PAKISTAN",The Journal of Animal and Plant Sciences,2022,I. Naz,Pakistan,33.6,73.03333333,MAOC,3.67,0.3,4.85,0.3,4,4,2,,Yes,0-20,Top,517,21.60833359,948,,,,sandyclayloam
+165,"IMPACT OF CONSERVATION TILLAGE ON ORGANIC MATTER DYNAMICS IN
+LOESS DRYLAND SOIL, PUNJAB, PAKISTAN",The Journal of Animal and Plant Sciences,2022,I. Naz,Pakistan,33.6,73.03333333,MAOC,3.86,0.3,5.11,0.3,4,4,2,,No,0-20,Top,517,21.60833359,948,,,,sandyclayloam
+166,土壤颗粒有机碳和矿质结合有机碳对４种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,MAOC,5.33,0.4,5.76,0.14,3,3,9,364.5,No,0-20,Top,458,12.90833333,659,1.779999971,,6.800000191,clayloam
+167,土壤颗粒有机碳和矿质结合有机碳对４种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,MAOC,4.94,0.46,5.78,0.15,3,3,9,364.5,No,0-20,Top,458,12.90833333,659,1.779999971,,6.800000191,clayloam
+168,土壤颗粒有机碳和矿质结合有机碳对４种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,MAOC,4.82,0.4,3.89,0.28,3,3,9,364.5,No,20-40,Sub,458,12.90833333,659,1.799999952,,7.099999905,clayloam
+169,土壤颗粒有机碳和矿质结合有机碳对４种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,MAOC,4.08,0.64,3.81,0.34,3,3,9,364.5,No,20-40,Sub,458,12.90833333,659,1.799999952,,7.099999905,clayloam
+170,土壤颗粒有机碳和矿质结合有机碳对４种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,POC,3.87,0.16,6.07,0.35,3,3,9,364.5,No,0-20,Top,458,12.90833333,659,1.779999971,,6.800000191,clayloam
+171,土壤颗粒有机碳和矿质结合有机碳对４种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,POC,4.02,0.32,3.68,0.28,3,3,9,364.5,No,0-20,Top,458,12.90833333,659,1.779999971,,6.800000191,clayloam
+172,土壤颗粒有机碳和矿质结合有机碳对４种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,POC,2.89,0.86,2.82,0.17,3,3,9,364.5,No,20-40,Sub,458,12.90833333,659,1.799999952,,7.099999905,clayloam
+173,土壤颗粒有机碳和矿质结合有机碳对４种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,POC,1.9,0.21,1.98,0.64,3,3,9,364.5,No,20-40,Sub,458,12.90833333,659,1.799999952,,7.099999905,clayloam
+174,土壤颗粒有机碳和矿质结合有机碳对4种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,SOC,9.2,0.48,11.83,0.31,3,3,9,364.5,No,0-20,Top,458,12.90833333,659,1.779999971,,6.800000191,clayloam
+175,土壤颗粒有机碳和矿质结合有机碳对4种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,SOC,8.96,0.18,9.46,0.29,3,3,9,364.5,No,0-20,Top,458,12.90833333,659,1.779999971,,6.800000191,clayloam
+176,土壤颗粒有机碳和矿质结合有机碳对4种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,SOC,7.71,0.45,6.71,0.15,3,3,9,364.5,No,20-40,Sub,458,12.90833333,659,1.799999952,,7.099999905,clayloam
+177,土壤颗粒有机碳和矿质结合有机碳对4种耕作措施的响应,水土保持学报,2012,姬 强,CHINA,34.263566,108.063431,SOC,5.98,0.82,5.79,0.37,3,3,9,364.5,No,20-40,Sub,458,12.90833333,659,1.799999952,,7.099999905,clayloam
+178,"Organic carbon and nitrogen contents and their fractions
+in soils with onion crops in different management systems",Soil Research,2018,Lucas Borges Ferreira,Brazil,-27.25,-50.33333333,MAOC,22.66,1.33,23.93,1.01,5,5,8,180,No,0-20,Top,1100,17.68,1400,1.75,disstrudept,6.1,clayloam
+179,"Organic carbon and nitrogen contents and their fractions
+in soils with onion crops in different management systems",Soil Research,2018,Lucas Borges Ferreira,Brazil,-27.25,-50.33333333,MAOC,21.74,1.25,18.16,0.95,5,5,8,180,No,0-20,Top,1100,17.68,1400,1.75,disstrudept,6.1,clayloam
+180,"Organic carbon and nitrogen contents and their fractions
+in soils with onion crops in different management systems",Soil Research,2018,Lucas Borges Ferreira,Brazil,-27.25,-50.33333333,MAOC,20.03,0.81,18.65,1.24,5,5,8,180,No,0-20,Top,1100,17.68,1400,1.75,disstrudept,5.099999905,clayloam
+181,"Organic carbon and nitrogen contents and their fractions
+in soils with onion crops in different management systems",Soil Research,2018,Lucas Borges Ferreira,Brazil,-27.25,-50.33333333,POC,3.79,0.64,7.54,0.8,5,5,8,180,No,0-20,Top,1100,17.68,1400,1.75,disstrudept,6.1,clayloam
+182,"Organic carbon and nitrogen contents and their fractions
+in soils with onion crops in different management systems",Soil Research,2018,Lucas Borges Ferreira,Brazil,-27.25,-50.33333333,POC,3.27,0.44,7.24,0.45,5,5,8,180,No,0-20,Top,1100,17.68,1400,1.75,disstrudept,6.1,clayloam
+183,"Organic carbon and nitrogen contents and their fractions
+in soils with onion crops in different management systems",Soil Research,2018,Lucas Borges Ferreira,Brazil,-27.25,-50.33333333,POC,3.39,0.2,3.28,0.42,5,5,8,180,No,0-20,Top,1100,17.68,1400,1.75,disstrudept,5.099999905,clayloam
+184,"Organic carbon and nitrogen contents and their fractions
+in soils with onion crops in different management systems",Soil Research,2018,Lucas Borges Ferreira,Brazil,-27.25,-50.33333333,SOC,26.46,4.485013972,31.48,6.630017687,5,5,8,180,No,0-20,Top,1100,17.68,1400,1.75,disstrudept,6.1,clayloam
+185,"Organic carbon and nitrogen contents and their fractions
+in soils with onion crops in different management systems",Soil Research,2018,Lucas Borges Ferreira,Brazil,-27.25,-50.33333333,SOC,25.16,4.264661811,25.4,5.349506012,5,5,8,180,No,0-20,Top,1100,17.68,1400,1.75,disstrudept,6.1,clayloam
+186,"Organic carbon and nitrogen contents and their fractions
+in soils with onion crops in different management systems",Soil Research,2018,Lucas Borges Ferreira,Brazil,-27.25,-50.33333333,SOC,21.32,3.61377543,21.93,4.618687671,5,5,8,180,No,0-20,Top,1100,17.68,1400,1.75,disstrudept,5.099999905,clayloam
+187,"Physical, chemical, and biochemical mechanisms of soil organic matter
+stabilization under conservation tillage systems: A central role for microbes
+and microbial by-products in C sequestration",Soil Biology and Biochemistry,2013,César Plaza,Spanish,40.05,-4.416666667,MAOC,3.79,0.45,4.41,0.43,3,3,25,,Yes,0-20,Top,440,15,450,1.710000038,ploxerf(,8.199999809,sandyloam
+188,"Physical, chemical, and biochemical mechanisms of soil organic matter
+stabilization under conservation tillage systems: A central role for microbes
+and microbial by-products in C sequestration",Soil Biology and Biochemistry,2013,César Plaza,Spanish,40.05,-4.416666667,SOC,6.99,0.53,8.11,0.36,3,3,25,,Yes,0-20,Top,440,15,450,1.710000038,ploxerf(,8.199999809,sandyloam
+189,Combined role of no-tillage and cropping systems in soil carbon stocks and stabilization,Soil & Tillage Research,2013,Paulo Cesar Conceic¸a˜o,Brazil,-30.85,-51.63333333,MAOC,0.909090909,0.64,2.083916084,0.76,3,3,18,,No,0-20,Top,96,19.4,1440,1.43,Acrisol,6.099999905,sandyclayloam
+190,"Combined role of no-tillage and cropping systems in soil carbon stocks and
+stabilization",Soil & Tillage Research,2013,Paulo Cesar Conceic¸a˜o,Brazil,-30.85,-51.63333333,MAOC,0.994011976,0.68,1.413173653,0.8,3,3,18,,No,0-20,Top,96,19.4,1440,1.67,Acrisol,6.099999905,sandyclayloam
+191,"Combined role of no-tillage and cropping systems in soil carbon stocks and
+stabilization",Soil & Tillage Research,2013,Paulo Cesar Conceic¸a˜o,Brazil,-30.85,-51.63333333,MAOC,1.139393939,1.05,0.575757576,1.41,3,3,18,,No,0-20,Top,96,19.4,1440,1.65,Acrisol,6.099999905,sandyclayloam
+192,"Combined role of no-tillage and cropping systems in soil carbon stocks and
+stabilization",Soil & Tillage Research,2013,Paulo Cesar Conceic¸a˜o,Brazil,-30.85,-51.63333333,MAOC,1.123333333,2.17,1.206666667,1.94,3,3,18,,No,0-20,Top,96,19.4,1440,1.5,Acrisol,6.099999905,sandyclayloam
+193,"Combined role of no-tillage and cropping systems in soil carbon stocks and
+stabilization",Soil & Tillage Research,2013,Paulo Cesar Conceic¸a˜o,Brazil,-30.85,-51.63333333,SOC,2.293706294,0.72,5.216783217,0.16,3,3,18,,No,0-20,Top,96,19.4,1440,1.43,Acrisol,6.099999905,sandyclayloam
+194,"Combined role of no-tillage and cropping systems in soil carbon stocks and
+stabilization",Soil & Tillage Research,2013,Paulo Cesar Conceic¸a˜o,Brazil,-30.85,-51.63333333,SOC,1.616766467,0.71,1.736526946,0.94,3,3,18,,No,0-20,Top,96,19.4,1440,1.67,Acrisol,6.099999905,sandyclayloam
+195,"Combined role of no-tillage and cropping systems in soil carbon stocks and
+stabilization",Soil & Tillage Research,2013,Paulo Cesar Conceic¸a˜o,Brazil,-30.85,-51.63333333,SOC,1.23030303,1.46,0.612121212,1.58,3,3,18,,No,0-20,Top,96,19.4,1440,1.65,Acrisol,6.099999905,sandyclayloam
+196,"Combined role of no-tillage and cropping systems in soil carbon stocks and
+stabilization",Soil & Tillage Research,2013,Paulo Cesar Conceic¸a˜o,Brazil,-30.85,-51.63333333,SOC,1.676666667,2.27,2.063333333,2.4,3,3,18,,No,0-20,Top,96,19.4,1440,1.5,Acrisol,6.099999905,sandyclayloam
+197,Transition from intensive tillage to no-till enhances carbon sequestration in microaggregates of surface soil in the North China Plain,Soil & Tillage Research,2015,Zhangliu Du,China,37.88333333,114.6833333,MAOC,7.34,0.45,9.22,0.72,3,3,7,,No,0-20,Top,50,12,536,1.730000019,,6.199999809,siltyloam
+198,"Effects of Tillage and Cover Crops on Total Carbon and
+Nitrogen Stocks and Particle-Size Fractions of Soil Organic Matter under Onion Crop",Horticulturae,2023,Ana Carla Kuneski,Brazil,-27.41444444,-49.6025,MAOC,18.98461538,13.32,65.56213018,14.34,4,4,10,,Yes,0-20,Top,475,18,1400,,Typic Hapluldult,6.2,clayloam
+199,"Effects of Tillage and Cover Crops on Total Carbon and
+Nitrogen Stocks and Particle-Size Fractions of Soil Organic Matter under Onion Crop",Horticulturae,2023,Ana Carla Kuneski,Brazil,-27.41444444,-49.6025,MAOC,19.36923077,13.32,71.62130178,14.08,4,4,10,,Yes,0-20,Top,475,18,1400,,Typic Hapluldult,6.2,clayloam
+200,"Effects of Tillage and Cover Crops on Total Carbon and
+Nitrogen Stocks and Particle-Size Fractions of Soil Organic Matter under Onion Crop",Horticulturae,2023,Ana Carla Kuneski,Brazil,-27.41444444,-49.6025,MAOC,16.95769231,13.32,4.400887574,14.6,4,4,10,,Yes,20-40,Sub,475,18,1400,,Typic Hapluldult,,clayloam
+201,"Effects of Tillage and Cover Crops on Total Carbon and
+Nitrogen Stocks and Particle-Size Fractions of Soil Organic Matter under Onion Crop",Horticulturae,2023,Ana Carla Kuneski,Brazil,-27.41444444,-49.6025,POC,2.2,0.67,15.38461538,3.14,4,4,10,,Yes,0-20,Top,475,18,1400,,Typic Hapluldult,6.2,clayloam
+202,"Effects of Tillage and Cover Crops on Total Carbon and
+Nitrogen Stocks and Particle-Size Fractions of Soil Organic Matter under Onion Crop",Horticulturae,2023,Ana Carla Kuneski,Brazil,-27.41444444,-49.6025,POC,1.461538462,0.76,6.446153846,3.14,4,4,10,,Yes,0-20,Top,475,18,1400,,Typic Hapluldult,6.2,clayloam
+203,"Effects of Tillage and Cover Crops on Total Carbon and
+Nitrogen Stocks and Particle-Size Fractions of Soil Organic Matter under Onion Crop",Horticulturae,2023,Ana Carla Kuneski,Brazil,-27.41444444,-49.6025,POC,0.730769231,0.67,1.134615385,3.14,4,4,10,,Yes,20-40,Sub,475,18,1400,,Typic Hapluldult,,clayloam
+204,"Effects of Tillage and Cover Crops on Total Carbon and
+Nitrogen Stocks and Particle-Size Fractions of Soil Organic Matter under Onion Crop",Horticulturae,2023,Ana Carla Kuneski,Brazil,-27.41444444,-49.6025,SOC,21.18,3.590045197,80.94,17.04681168,4,4,10,,Yes,0-20,Top,475,18,1400,,Typic Hapluldult,6.2,clayloam
+205,"Effects of Tillage and Cover Crops on Total Carbon and
+Nitrogen Stocks and Particle-Size Fractions of Soil Organic Matter under Onion Crop",Horticulturae,2023,Ana Carla Kuneski,Brazil,-27.41444444,-49.6025,SOC,20.83,3.530719616,78.07,16.44235962,4,4,10,,Yes,0-20,Top,475,18,1400,,Typic Hapluldult,6.2,clayloam
+206,"Effects of Tillage and Cover Crops on Total Carbon and
+Nitrogen Stocks and Particle-Size Fractions of Soil Organic Matter under Onion Crop",Horticulturae,2023,Ana Carla Kuneski,Brazil,-27.41444444,-49.6025,SOC,17.69,2.998484398,5.53,1.164675915,4,4,10,,Yes,20-40,Sub,475,18,1400,,Typic Hapluldult,,clayloam
+207,No-till and cover crop impacts on soil carbon and associated properties on Pennsylvania dairy farms,journal of soil and water conservation,2008,C.J. Dell,USA,40.93333333,-77.65,MAOC,10.96923077,0.95,31.19526627,2.09,6,6,6,,Yes,0-20,Top,320,9.5,975,1.779999971,,6,siltyclayloam
+208,No-till and cover crop impacts on soil carbon and associated properties on Pennsylvania dairy farms,journal of soil and water conservation,2008,C.J. Dell,USA,40.93333333,-77.65,MAOC,11.69230769,0.95,22.01183432,4.94,6,6,6,,Yes,0-20,Top,320,9.5,975,1.779999971,,6,siltyclayloam
+209,No-till and cover crop impacts on soil carbon and associated properties on Pennsylvania dairy farms,journal of soil and water conservation,2008,C.J. Dell,USA,40.93333333,-77.65,MAOC,3.461538462,0.95,5.514792899,0.95,6,6,6,,Yes,20-40,Sub,320,9.5,975,1.850000024,,,siltyclay
+210,No-till and cover crop impacts on soil carbon and associated properties on Pennsylvania dairy farms,journal of soil and water conservation,2008,C.J. Dell,USA,40.93333333,-77.65,POC,3.076923077,0.95,11.83076923,5.65,6,6,6,,Yes,0-20,Top,320,9.5,975,1.779999971,,6,siltyclayloam
+211,No-till and cover crop impacts on soil carbon and associated properties on Pennsylvania dairy farms,journal of soil and water conservation,2008,C.J. Dell,USA,40.93333333,-77.65,POC,3.076923077,0.57,3.307692308,1.51,6,6,6,,Yes,0-20,Top,320,9.5,975,1.779999971,,6,siltyclayloam
+212,No-till and cover crop impacts on soil carbon and associated properties on Pennsylvania dairy farms,journal of soil and water conservation,2008,C.J. Dell,USA,40.93333333,-77.65,POC,0.815384615,0.45,0.815384615,0.27,6,6,6,,Yes,20-40,Sub,320,9.5,975,1.850000024,,,siltyclay
+213,No-till and cover crop impacts on soil carbon and associated properties on Pennsylvania dairy farms,journal of soil and water conservation,2008,C.J. Dell,USA,40.93333333,-77.65,SOC,14.04615385,2.380846419,43.0260355,9.061733685,6,6,6,,Yes,0-20,Top,320,9.5,975,1.779999971,,6,siltyclayloam
+214,No-till and cover crop impacts on soil carbon and associated properties on Pennsylvania dairy farms,journal of soil and water conservation,2008,C.J. Dell,USA,40.93333333,-77.65,SOC,14.76923077,2.503409159,25.31952663,5.332557477,6,6,6,,Yes,0-20,Top,320,9.5,975,1.779999971,,6,siltyclayloam
+215,No-till and cover crop impacts on soil carbon and associated properties on Pennsylvania dairy farms,journal of soil and water conservation,2008,C.J. Dell,USA,40.93333333,-77.65,SOC,4.276923077,0.724945569,6.330177515,1.33320168,6,6,6,,Yes,20-40,Sub,320,9.5,975,1.850000024,,,siltyclay
+216,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,MAOC,8.755980861,1.093926826,10.04784689,0.745859199,3,3,20,405,No,0-20,Top,6,15.1,1000,,,,sandyloam
+217,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,MAOC,9.387559809,0.348067626,7.033492823,0.895031039,3,3,20,405,No,0-20,Top,6,15.1,1000,,,,sandyloam
+218,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,MAOC,3.90430622,0.59668736,2.641148325,0.59668736,3,3,20,405,No,20-40,Sub,6,15.1,1000,,,,sandyloam
+219,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,MAOC,2.698564593,0.944754986,1.751196172,0.397791573,3,3,20,405,No,40-60,Sub,6,15.1,1000,,,,sandyloam
+220,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,POC,5.711790393,0.665591577,7.772925764,0.332795788,3,3,20,405,No,0-20,Top,6,15.1,1000,,,,sandyloam
+221,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,POC,5.135371179,0.242033301,3.231441048,0.423558276,3,3,20,405,No,0-20,Top,6,15.1,1000,,,,sandyloam
+222,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,POC,2.829694323,0.272287463,1.502183406,0.302541626,3,3,20,405,No,20-40,Sub,6,15.1,1000,,,,sandyloam
+223,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,POC,0.943231441,0.242033301,0.15720524,0.272287463,3,3,20,405,No,40-60,Sub,6,15.1,1000,,,,sandyloam
+224,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,SOC,14.11016949,0.513743884,18.22033898,1.027487767,3,3,20,405,No,0-20,Top,6,15.1,1000,,,,sandyloam
+225,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,SOC,12.20338983,0.66052785,7.838983051,0.66052785,3,3,20,405,No,0-20,Top,6,15.1,1000,,,,sandyloam
+226,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,SOC,6.313559322,0.733919834,3.43220339,0.66052785,3,3,20,405,No,20-40,Sub,6,15.1,1000,,,,sandyloam
+227,Effects of tillage on soil organic carbon and crop yield under straw return,"Agriculture, Ecosystems & Environment",2023,Xintan Zhang,CHINA,32.344137,119.3999,SOC,2.966101695,0.4403519,1.822033898,0.807311817,3,3,20,405,No,40-60,Sub,6,15.1,1000,,,,sandyloam
+228,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,MAOC,2.59,0.02,2.65,0.03,3,3,17,20,No,0-20,Top,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+229,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,MAOC,2.7,0.05,2.83,0.08,3,3,17,20,No,0-20,Top,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+230,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,MAOC,3.12,0.05,3.29,0.03,3,3,17,20,No,0-20,Top,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+231,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,MAOC,3.25,0.02,3.36,0.04,3,3,17,20,No,20-40,Sub,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+232,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,POC,5.84,0.1,7.19,0.1,3,3,17,20,No,0-20,Top,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+233,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,POC,5.36,0.08,6.74,0.18,3,3,17,20,No,0-20,Top,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+234,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,POC,4.31,0.13,5.01,0.23,3,3,17,20,No,0-20,Top,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+235,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,POC,4.01,0.05,4.26,0.08,3,3,17,20,No,20-40,Sub,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+236,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,SOC,8.519685039,0.192913386,9.980314961,0.165354331,3,3,17,20,No,0-20,Top,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+237,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,SOC,8.106299213,0.220472441,9.622047244,0.303149606,3,3,17,20,No,0-20,Top,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+238,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,SOC,7.61023622,0.303149606,8.354330709,0.468503937,3,3,17,20,No,0-20,Top,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+239,耕作措施对旱作农田土壤颗粒态有机碳的影响,中国生态农业学报,2018,武 均,CHINA,35.46666667,104.7333333,SOC,7.472440945,0.496062992,7.748031496,0.468503937,3,3,17,20,No,20-40,Sub,2000,6.4,390.9,1.17,典型的黄绵土,8.45,loam
+240,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,23.6,5.632410988,25.90909091,6.157067081,6,6,19,60,No,0-20,Top,409,19.2,1774,1.1,Dystroferric Latosol,4.8,clay
+241,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,21.51219512,5.134132381,24.60162602,5.846359574,6,6,19,60,No,0-20,Top,409,19.2,1774,1.23,Dystroferric Latosol,5,clay
+242,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,25.27927928,6.033190271,28.5045045,6.773844245,6,6,19,150,No,0-20,Top,409,19.2,1774,1.11,Dystroferric Latosol,4.9,clay
+243,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,19.62406015,4.683507289,18.19548872,4.323997512,6,6,19,60,No,0-20,Top,409,19.2,1774,1.33,Dystroferric Latosol,4.8,clay
+244,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,21.21259843,5.062630189,21.07086614,5.007305611,6,6,19,60,No,0-20,Top,409,19.2,1774,1.27,Dystroferric Latosol,5,clay
+245,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,21.10447761,5.036825915,21.2238806,5.043668148,6,6,19,150,No,0-20,Top,409,19.2,1774,1.34,Dystroferric Latosol,4.9,clay
+246,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,12.37185924,2.952686267,12.15577884,2.888713694,6,6,19,60,No,0-20,Top,409,19.2,1774,1.99000001,Dystroferric Latosol,4.8,clay
+247,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,12.82914567,3.061822925,12.81909542,3.046345033,6,6,19,60,No,0-20,Top,409,19.2,1774,1.99000001,Dystroferric Latosol,5,clay
+248,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,13.61306526,3.248914337,13.85427129,3.292345455,6,6,19,150,No,0-20,Top,409,19.2,1774,1.99000001,Dystroferric Latosol,4.9,clay
+249,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,10.05418733,2.399547255,9.645320333,2.292125359,6,6,19,60,No,20-40,Sub,409,19.2,1774,2.029999971,Dystroferric Latosol,4.8,clay
+250,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,9.935960731,2.371331119,10.3842366,2.467722297,6,6,19,60,No,20-40,Sub,409,19.2,1774,2.029999971,Dystroferric Latosol,5,clay
+251,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,MAOC,10.16748783,2.426587719,10.64532035,2.529766548,6,6,19,150,No,20-40,Sub,409,19.2,1774,2.029999971,Dystroferric Latosol,4.9,clay
+252,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,2.545454545,0.467222411,5.945454545,1.558225829,6,6,19,60,No,0-20,Top,409,19.2,1774,1.1,Dystroferric Latosol,4.8,clay
+253,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,3.219512195,0.590946812,5.609756098,1.470243659,6,6,19,60,No,0-20,Top,409,19.2,1774,1.23,Dystroferric Latosol,5,clay
+254,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,3.63963964,0.668061903,6.27027027,1.64335578,6,6,19,150,No,0-20,Top,409,19.2,1774,1.11,Dystroferric Latosol,4.9,clay
+255,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,1.69924812,0.311899816,0.842105263,0.220704769,6,6,19,60,No,0-20,Top,409,19.2,1774,1.33,Dystroferric Latosol,4.8,clay
+256,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,2.220472441,0.407571406,1.05511811,0.276532649,6,6,19,60,No,0-20,Top,409,19.2,1774,1.27,Dystroferric Latosol,5,clay
+257,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,2.014925373,0.3698429,1.23880597,0.324674833,6,6,19,150,No,0-20,Top,409,19.2,1774,1.34,Dystroferric Latosol,4.9,clay
+258,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,0.402010048,0.073789612,0.336683415,0.088240317,6,6,19,60,No,0-20,Top,409,19.2,1774,1.99000001,Dystroferric Latosol,4.8,clay
+259,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,0.50251256,0.092237015,0.381909546,0.100093494,6,6,19,60,No,0-20,Top,409,19.2,1774,1.99000001,Dystroferric Latosol,5,clay
+260,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,0.567839193,0.104227827,0.296482411,0.07770416,6,6,19,150,No,0-20,Top,409,19.2,1774,1.99000001,Dystroferric Latosol,4.9,clay
+261,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,0.231527097,0.042497183,0.142857145,0.037440988,6,6,19,60,No,20-40,Sub,409,19.2,1774,2.029999971,Dystroferric Latosol,4.8,clay
+262,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,0.152709362,0.028030057,0.231527097,0.060680222,6,6,19,60,No,20-40,Sub,409,19.2,1774,2.029999971,Dystroferric Latosol,5,clay
+263,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,POC,0.177339904,0.032551034,0.182266012,0.047769537,6,6,19,150,No,20-40,Sub,409,19.2,1774,2.029999971,Dystroferric Latosol,4.9,clay
+264,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,26.12727273,4.428616146,31.85454545,6.708900882,6,6,19,60,No,0-20,Top,409,19.2,1774,1.1,Dystroferric Latosol,4.8,clay
+265,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,24.73170732,4.19206549,30.21138211,6.362833474,6,6,19,60,No,0-20,Top,409,19.2,1774,1.23,Dystroferric Latosol,5,clay
+266,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,28.91891892,4.901804815,34.77477477,7.32393176,6,6,19,150,No,0-20,Top,409,19.2,1774,1.11,Dystroferric Latosol,4.9,clay
+267,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,21.33834586,3.616885085,19.02255639,4.006349597,6,6,19,60,No,0-20,Top,409,19.2,1774,1.33,Dystroferric Latosol,4.8,clay
+268,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,23.43307087,3.971944453,22.12598425,4.659964007,6,6,19,60,No,0-20,Top,409,19.2,1774,1.27,Dystroferric Latosol,5,clay
+269,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,23.11940299,3.918777226,22.44776119,4.727733601,6,6,19,150,No,0-20,Top,409,19.2,1774,1.34,Dystroferric Latosol,4.9,clay
+270,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,12.77386929,2.165192072,12.49246225,2.631043383,6,6,19,60,No,0-20,Top,409,19.2,1774,1.99000001,Dystroferric Latosol,4.8,clay
+271,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,13.33165823,2.259738224,13.20100496,2.780269898,6,6,19,60,No,0-20,Top,409,19.2,1774,1.99000001,Dystroferric Latosol,5,clay
+272,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,14.18090445,2.403686871,14.14572858,2.979238585,6,6,19,150,No,0-20,Top,409,19.2,1774,1.99000001,Dystroferric Latosol,4.9,clay
+273,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,10.28571443,1.743445689,9.788177478,2.061492687,6,6,19,60,No,20-40,Sub,409,19.2,1774,2.029999971,Dystroferric Latosol,4.8,clay
+274,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,10.08867009,1.710046346,10.6157637,2.235791012,6,6,19,60,No,20-40,Sub,409,19.2,1774,2.029999971,Dystroferric Latosol,5,clay
+275,CARBON STOCK AND ITS COMPARTMENTS IN A SUBTROPICAL OXISOL UNDER LONG-TERM TILLAGE AND CROP ROTATION SYSTEMS,,2011,Ben-Hur Costa de Campos,Brazil,-28.6,-53.66666667,SOC,10.34482773,1.753465492,10.82266025,2.279365594,6,6,19,150,No,20-40,Sub,409,19.2,1774,2.029999971,Dystroferric Latosol,4.9,clay
+276,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,MAOC,19.49,4.651512295,24.87,5.910136286,3,3,16,120,No,0-20,Top,910,18.28,1545,1.06,"Hapludox, Oxisol",5.9,clay
+277,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,MAOC,19.61,4.680151673,21.35,5.073639312,3,3,16,120,No,0-20,Top,910,18.28,1545,1.25,"Hapludox, Oxisol",5.6,clay
+278,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,MAOC,18.77,4.479676027,18.64,4.4296317,3,3,16,120,No,0-20,Top,910,18.28,1545,1.31,"Hapludox, Oxisol",5.6,clay
+279,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,MAOC,17.04,4.066791663,18.16,4.31556393,3,3,16,120,No,0-20,Top,910,18.28,1545,1.26,"Hapludox, Oxisol",5.4,clay
+280,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,MAOC,14.73,3.515483638,14.9,3.540853665,3,3,16,120,No,20-40,Sub,910,18.28,1545,1.16,"Hapludox, Oxisol",5.6,clay
+281,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,POC,5.87,1.077448253,12.21,3.20008121,3,3,16,120,No,0-20,Top,910,18.28,1545,1.06,"Hapludox, Oxisol",5.9,clay
+282,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,POC,4.56,0.836995576,6.77,1.774328402,3,3,16,120,No,0-20,Top,910,18.28,1545,1.25,"Hapludox, Oxisol",5.6,clay
+283,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,POC,4.93,0.904909691,4.82,1.263258921,3,3,16,120,No,0-20,Top,910,18.28,1545,1.31,"Hapludox, Oxisol",5.6,clay
+284,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,POC,3.72,0.682812181,2.05,0.537278172,3,3,16,120,No,0-20,Top,910,18.28,1545,1.26,"Hapludox, Oxisol",5.4,clay
+285,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,POC,2.04,0.374445389,1.02,0.267328651,3,3,16,120,No,20-40,Sub,910,18.28,1545,1.16,"Hapludox, Oxisol",5.6,clay
+286,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,SOC,32.4,5.491853843,49.2,10.36203527,3,3,16,120,No,0-20,Top,910,18.28,1545,1.06,"Hapludox, Oxisol",5.9,clay
+287,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,SOC,31.8,5.390152846,39.2,8.255930538,3,3,16,120,No,0-20,Top,910,18.28,1545,1.25,"Hapludox, Oxisol",5.6,clay
+288,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,SOC,31.2,5.288451849,30.6,6.444680471,3,3,16,120,No,0-20,Top,910,18.28,1545,1.31,"Hapludox, Oxisol",5.6,clay
+289,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,SOC,27.7,4.695196032,25.8,5.433750201,3,3,16,120,No,0-20,Top,910,18.28,1545,1.26,"Hapludox, Oxisol",5.4,clay
+290,"Long-term tillage systems impacts on soil C dynamics, soil resilience and agronomic productivity of a Brazilian Oxisol",Soil and Tillage Research,2014,João Carlos de Moraes Sá,Brazil,-25.015,-50.15194444,SOC,18.6,3.15273091,23.6,4.970407161,3,3,16,120,No,20-40,Sub,910,18.28,1545,1.16,"Hapludox, Oxisol",5.6,clay
+291,Long‐Term Tillage Impacts on Soil Aggregation and Carbon Dynamics under Wheat‐Fallow in the Central Great Plains,Soil Science Society of America Journal,2013,Maysoon M. Mikha,USA,40.15,-103.15,MAOC,6.32,1.50834057,6.97,1.656359064,4,4,39,50,Yes,0-20,Top,1384,9.541666754,418,1.43,Weld silt loam,7,siltyloam
+292,Long‐Term Tillage Impacts on Soil Aggregation and Carbon Dynamics under Wheat‐Fallow in the Central Great Plains,Soil Science Society of America Journal,2013,Maysoon M. Mikha,USA,40.15,-103.15,MAOC,6.45,1.539366562,5.73,1.361683993,4,4,39,50,Yes,0-20,Top,1384,9.541666754,418,1.48,Weld silt loam,7,siltyloam
+293,Long‐Term Tillage Impacts on Soil Aggregation and Carbon Dynamics under Wheat‐Fallow in the Central Great Plains,Soil Science Society of America Journal,2013,Maysoon M. Mikha,USA,40.15,-103.15,MAOC,4.62,1.102616049,6.1,1.449611232,4,4,39,50,Yes,0-20,Top,1384,9.541666754,418,1.46,Weld silt loam,7,siltyloam
+294,Long‐Term Tillage Impacts on Soil Aggregation and Carbon Dynamics under Wheat‐Fallow in the Central Great Plains,Soil Science Society of America Journal,2013,Maysoon M. Mikha,USA,40.15,-103.15,MAOC,0.81,0.193315801,1.56,0.37072025,4,4,39,50,Yes,0-20,Top,1384,9.541666754,418,1.43,Weld silt loam,7,siltyloam
+295,Long‐Term Tillage Impacts on Soil Aggregation and Carbon Dynamics under Wheat‐Fallow in the Central Great Plains,Soil Science Society of America Journal,2013,Maysoon M. Mikha,USA,40.15,-103.15,MAOC,0.57,0.136037045,0.75,0.178230889,4,4,39,50,Yes,0-20,Top,1384,9.541666754,418,1.48,Weld silt loam,7,siltyloam
+296,Long‐Term Tillage Impacts on Soil Aggregation and Carbon Dynamics under Wheat‐Fallow in the Central Great Plains,Soil Science Society of America Journal,2013,Maysoon M. Mikha,USA,40.15,-103.15,MAOC,0.27,0.0644386,0.59,0.1402083,4,4,39,50,Yes,0-20,Top,1384,9.541666754,418,1.46,Weld silt loam,7,siltyloam
+297,Long‐Term Tillage Impacts on Soil Aggregation and Carbon Dynamics under Wheat‐Fallow in the Central Great Plains,Soil Science Society of America Journal,2013,Maysoon M. Mikha,USA,40.15,-103.15,MAOC,7.89,1.883039097,9.75,2.31700156,4,4,39,50,Yes,0-20,Top,1384,9.541666754,418,1.43,Weld silt loam,7,siltyloam
+298,Long‐Term Tillage Impacts on Soil Aggregation and Carbon Dynamics under Wheat‐Fallow in the Central Great Plains,Soil Science Society of America Journal,2013,Maysoon M. Mikha,USA,40.15,-103.15,MAOC,7.17,1.71120283,6.75,1.604078003,4,4,39,50,Yes,0-20,Top,1384,9.541666754,418,1.48,Weld silt loam,7,siltyloam
+299,Long‐Term Tillage Impacts on Soil Aggregation and Carbon Dynamics under Wheat‐Fallow in the Central Great Plains,Soil Science Society of America Journal,2013,Maysoon M. Mikha,USA,40.15,-103.15,MAOC,4.96,1.183760953,6.85,1.627842121,4,4,39,50,Yes,0-20,Top,1384,9.541666754,418,1.46,Weld silt loam,7,siltyloam
+300,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.74166667,0.771666667,MAOC,10.38,2.477306189,10.46,2.485726801,3,3,19,,Yes,0-20,Top,259,14.49166671,355,1.730000019,"Hypercalcic
+Calcisol",8.5,loam
+301,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.74166667,0.771666667,MAOC,9.8,2.338882529,8.72,2.072231138,3,3,19,,Yes,0-20,Top,259,14.49166671,355,1.730000019,"Hypercalcic
+Calcisol",8.5,loam
+302,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.74166667,0.771666667,MAOC,10.07,2.403321129,8.69,2.065101903,3,3,19,,Yes,20-40,Sub,259,14.49166671,355,1.730000019,"Hypercalcic
+Calcisol",8.5,loam
+303,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.73944444,0.775,MAOC,9.8,2.338882529,11.06,2.628311513,3,3,19,,No,0-20,Top,259,14.51666677,355,1.730000019,"Hypercalcic
+Calcisol",8.4,loam
+304,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.73944444,0.775,MAOC,9.55,2.279217158,9.47,2.250462028,3,3,19,,No,0-20,Top,259,14.51666677,355,1.730000019,"Hypercalcic
+Calcisol",8.4,loam
+305,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.73944444,0.775,MAOC,9.55,2.279217158,9.24,2.195804555,3,3,19,,No,20-40,Sub,259,14.51666677,355,1.730000019,"Hypercalcic
+Calcisol",8.4,loam
+306,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.72277778,0.355277778,MAOC,8.47,2.021462757,10.2,2.423940093,3,3,10,,Yes,0-20,Top,422,14.92499991,433,1.789999962,"Hypocalcic
+Calcisol",8.4,siltyloam
+307,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.72277778,0.355277778,MAOC,8.71,2.078741513,8.89,2.11263014,3,3,10,,Yes,0-20,Top,422,14.92499991,433,1.789999962,"Hypocalcic
+Calcisol",8.4,siltyloam
+308,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.72277778,0.355277778,MAOC,8.56,2.042942291,8.23,1.955786957,3,3,10,,Yes,20-40,Sub,422,14.92499991,433,1.789999962,"Hypocalcic
+Calcisol",8.4,siltyloam
+309,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.96444444,0.083333333,MAOC,7.68,1.832920186,8.53,2.027079313,3,3,9,,Yes,0-20,Top,431,14.95833337,468,1.710000038,"Calcaric
+Cambisol",8.6,sandyloam
+310,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.96444444,0.083333333,MAOC,7.29,1.739842208,7.46,1.772803245,3,3,9,,Yes,0-20,Top,431,14.95833337,468,1.710000038,"Calcaric
+Cambisol",8.6,sandyloam
+311,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.96444444,0.083333333,MAOC,6.81,1.625284696,7.15,1.699134477,3,3,9,,Yes,20-40,Sub,431,14.95833337,468,1.74000001,"Calcaric
+Cambisol",8.6,sandyloam
+312,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.56194444,1.123888889,MAOC,13.69,3.267275696,15.49,3.681061965,3,3,19,,Yes,0-20,Top,860,6.616666628,676,1.75,"Haplic
+Calcisol",8.3,siltyclayloam
+313,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.56194444,1.123888889,MAOC,13.03,3.109759118,12.63,3.001408174,3,3,19,,Yes,0-20,Top,860,6.616666628,676,1.75,"Haplic
+Calcisol",8.3,siltyclayloam
+314,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.56194444,1.123888889,MAOC,12.63,3.014294525,12.26,2.913480935,3,3,19,,Yes,20-40,Sub,860,6.616666628,676,1.75,"Haplic
+Calcisol",8.3,siltyclayloam
+315,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.59611111,0.994166667,MAOC,8.68,2.071581669,9.35,2.221945085,3,3,13,,No,0-20,Top,526,1.683333308,741,1.720000029,"Hypocalcic
+Calcisol",8.2,loam
+316,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.59611111,0.994166667,MAOC,8.15,1.945091083,8.03,1.90825872,3,3,13,,No,0-20,Top,526,1.683333308,741,1.720000029,"Hypocalcic
+Calcisol",8.2,loam
+317,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.59611111,0.994166667,MAOC,8.01,1.911678475,7.9,1.877365366,3,3,13,,No,20-40,Sub,526,1.683333308,741,1.720000029,"Hypocalcic
+Calcisol",8.2,loam
+318,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.74166667,0.771666667,POC,1.59,0.291847142,4.6,1.2055998,3,3,19,,Yes,0-20,Top,259,14.49166671,355,1.730000019,"Hypercalcic
+Calcisol",8.5,loam
+319,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.74166667,0.771666667,POC,1.73,0.317544374,1.59,0.416718192,3,3,19,,Yes,0-20,Top,259,14.49166671,355,1.730000019,"Hypercalcic
+Calcisol",8.5,loam
+320,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.74166667,0.771666667,POC,1.37,0.251465776,1.06,0.277812128,3,3,19,,Yes,20-40,Sub,259,14.49166671,355,1.730000019,"Hypercalcic
+Calcisol",8.5,loam
+321,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.73944444,0.775,POC,0.93,0.170703045,2.25,0.589695555,3,3,19,,No,0-20,Top,259,14.51666677,355,1.730000019,"Hypercalcic
+Calcisol",8.4,loam
+322,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.73944444,0.775,POC,1.07,0.196400278,0.88,0.230636484,3,3,19,,No,0-20,Top,259,14.51666677,355,1.730000019,"Hypercalcic
+Calcisol",8.4,loam
+323,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.73944444,0.775,POC,0.91,0.167032012,0.65,0.170356494,3,3,19,,No,20-40,Sub,259,14.51666677,355,1.730000019,"Hypercalcic
+Calcisol",8.4,loam
+324,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.72277778,0.355277778,POC,2.21,0.405649172,5.11,1.339264126,3,3,10,,Yes,0-20,Top,422,14.92499991,433,1.789999962,"Hypocalcic
+Calcisol",8.4,siltyloam
+325,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.72277778,0.355277778,POC,1.41,0.258807843,2.08,0.545140779,3,3,10,,Yes,0-20,Top,422,14.92499991,433,1.789999962,"Hypocalcic
+Calcisol",8.4,siltyloam
+326,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.72277778,0.355277778,POC,1.27,0.23311061,1.69,0.442926883,3,3,10,,Yes,20-40,Sub,422,14.92499991,433,1.789999962,"Hypocalcic
+Calcisol",8.4,siltyloam
+327,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.96444444,0.083333333,POC,2.79,0.512109135,4.82,1.263258921,3,3,9,,Yes,0-20,Top,431,14.95833337,468,1.710000038,"Calcaric
+Cambisol",8.6,sandyloam
+328,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.96444444,0.083333333,POC,1.95,0.35792574,2,0.524173826,3,3,9,,Yes,0-20,Top,431,14.95833337,468,1.710000038,"Calcaric
+Cambisol",8.6,sandyloam
+329,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.96444444,0.083333333,POC,1.19,0.218426477,1.17,0.306641688,3,3,9,,Yes,20-40,Sub,431,14.95833337,468,1.74000001,"Calcaric
+Cambisol",8.6,sandyloam
+330,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.56194444,1.123888889,POC,3.22,0.59103635,4.41,1.155803287,3,3,19,,Yes,0-20,Top,860,6.616666628,676,1.75,"Haplic
+Calcisol",8.3,siltyclayloam
+331,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.56194444,1.123888889,POC,2.03,0.372609873,2.22,0.581832947,3,3,19,,Yes,0-20,Top,860,6.616666628,676,1.75,"Haplic
+Calcisol",8.3,siltyclayloam
+332,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.56194444,1.123888889,POC,1.36,0.24963026,1.16,0.304020819,3,3,19,,Yes,20-40,Sub,860,6.616666628,676,1.75,"Haplic
+Calcisol",8.3,siltyclayloam
+333,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.59611111,0.994166667,POC,4.38,0.803956277,3.9,1.022138961,3,3,13,,No,0-20,Top,526,1.683333308,741,1.720000029,"Hypocalcic
+Calcisol",8.2,loam
+334,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.59611111,0.994166667,POC,2.46,0.451537087,2.02,0.529415565,3,3,13,,No,0-20,Top,526,1.683333308,741,1.720000029,"Hypocalcic
+Calcisol",8.2,loam
+335,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.59611111,0.994166667,POC,2.06,0.378116423,1.63,0.427201668,3,3,13,,No,20-40,Sub,526,1.683333308,741,1.720000029,"Hypocalcic
+Calcisol",8.2,loam
+336,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.74166667,0.771666667,SOC,11.87772926,2.013294848,15.02183406,3.163755576,3,3,19,,Yes,0-20,Top,259,14.49166671,355,1.730000019,"Hypercalcic
+Calcisol",8.5,loam
+337,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.74166667,0.771666667,SOC,11.52838428,1.954080293,10.13100437,2.133695621,3,3,19,,Yes,0-20,Top,259,14.49166671,355,1.730000019,"Hypercalcic
+Calcisol",8.5,loam
+338,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.74166667,0.771666667,SOC,11.1790393,1.894865739,9.6069869,2.023332054,3,3,19,,Yes,20-40,Sub,259,14.49166671,355,1.730000019,"Hypercalcic
+Calcisol",8.5,loam
+339,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.73944444,0.775,SOC,10.95652174,1.857148643,13.39130435,2.820348942,3,3,19,,No,0-20,Top,259,14.51666677,355,1.730000019,"Hypercalcic
+Calcisol",8.4,loam
+340,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.73944444,0.775,SOC,10.95652174,1.857148643,10.43478261,2.1976745,3,3,19,,No,0-20,Top,259,14.51666677,355,1.730000019,"Hypercalcic
+Calcisol",8.4,loam
+341,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.73944444,0.775,SOC,10.43478261,1.768712993,9.913043478,2.087790775,3,3,19,,No,20-40,Sub,259,14.51666677,355,1.730000019,"Hypercalcic
+Calcisol",8.4,loam
+342,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.72277778,0.355277778,SOC,10.48034934,1.77643663,15.02183406,3.163755576,3,3,10,,Yes,0-20,Top,422,14.92499991,433,1.789999962,"Hypocalcic
+Calcisol",8.4,siltyloam
+343,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.72277778,0.355277778,SOC,9.781659389,1.658007522,10.65502183,2.244059187,3,3,10,,Yes,0-20,Top,422,14.92499991,433,1.789999962,"Hypocalcic
+Calcisol",8.4,siltyloam
+344,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.72277778,0.355277778,SOC,9.6069869,1.628400245,9.956331878,2.096907765,3,3,10,,Yes,20-40,Sub,422,14.92499991,433,1.789999962,"Hypocalcic
+Calcisol",8.4,siltyloam
+345,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.96444444,0.083333333,SOC,10.43478261,1.768712993,13.04347826,2.747093125,3,3,9,,Yes,0-20,Top,431,14.95833337,468,1.710000038,"Calcaric
+Cambisol",8.6,sandyloam
+346,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.96444444,0.083333333,SOC,9.043478261,1.532884594,9.391304348,1.97790705,3,3,9,,Yes,0-20,Top,431,14.95833337,468,1.710000038,"Calcaric
+Cambisol",8.6,sandyloam
+347,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,41.96444444,0.083333333,SOC,8,1.356013295,8.52173913,1.794767508,3,3,9,,Yes,20-40,Sub,431,14.95833337,468,1.74000001,"Calcaric
+Cambisol",8.6,sandyloam
+348,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.56194444,1.123888889,SOC,16.59388646,2.812691332,19.56331878,4.120239819,3,3,19,,Yes,0-20,Top,860,6.616666628,676,1.75,"Haplic
+Calcisol",8.3,siltyclayloam
+349,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.56194444,1.123888889,SOC,15.02183406,2.546225837,14.49781659,3.053392009,3,3,19,,Yes,0-20,Top,860,6.616666628,676,1.75,"Haplic
+Calcisol",8.3,siltyclayloam
+350,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.56194444,1.123888889,SOC,13.79912664,2.338974897,13.27510917,2.79587702,3,3,19,,Yes,20-40,Sub,860,6.616666628,676,1.75,"Haplic
+Calcisol",8.3,siltyclayloam
+351,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.59611111,0.994166667,SOC,12.69565217,2.151934141,13.2173913,2.783721033,3,3,13,,No,0-20,Top,526,1.683333308,741,1.720000029,"Hypocalcic
+Calcisol",8.2,loam
+352,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.59611111,0.994166667,SOC,10.60869565,1.798191543,9.913043478,2.087790775,3,3,13,,No,0-20,Top,526,1.683333308,741,1.720000029,"Hypocalcic
+Calcisol",8.2,loam
+353,Long-term no-tillage effects on particulate and mineral-associated soil organic matter under rainfed Mediterranean conditions,Soil Use and Management,2013,N. Blanco‐Moure,Spain,42.59611111,0.994166667,SOC,9.913043478,1.680277343,9.565217391,2.014534958,3,3,13,,No,20-40,Sub,526,1.683333308,741,1.720000029,"Hypocalcic
+Calcisol",8.2,loam
+354,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,MAOC,7.09,1.692109911,7.89,1.874988954,5,5,18,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+355,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,MAOC,6.06,1.446288584,6.28,1.492386646,5,5,18,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+356,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,MAOC,7.09,1.692109911,6.58,1.563679001,5,5,6,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+357,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,MAOC,6.06,1.446288584,6.64,1.577937472,5,5,6,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+358,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,POC,1.4,0.256972326,1.93,0.505827742,5,5,18,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+359,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,POC,1.38,0.253301293,1.71,0.448168621,5,5,18,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+360,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,POC,1.4,0.256972326,2.13,0.558245125,5,5,6,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+361,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,POC,1.38,0.253301293,1.85,0.484860789,5,5,6,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+362,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,SOC,8.539325843,1.447429921,9.775280899,2.058776533,5,5,18,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+363,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,SOC,8.539325843,1.447429921,8.651685393,1.822135552,5,5,6,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+364,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,SOC,7.772925764,1.317523834,8.034934498,1.692241354,5,5,18,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+365,"Physicogenic and biogenic aggregates under different management systems in the Cerrado region, Brazil",Revista Brasileira De Ciência Do Solo,2021,Luiz Alberto da Silva Rodrigues Pinto,Brazil,-19.652825,-47.97101389,SOC,7.772925764,1.317523834,8.471615721,1.784210993,5,5,6,200,No,0-20,Top,800,22.6,1600,1.99000001,Typic Hapludox,5.5,clay
+366,Soil organic carbon dynamics under different tillage systems in rotations with perennial pastures,Soil and Tillage Research,2014,L. Salvo,Uruguay,-32.35,-58.03333333,MAOC,13.57677924,3.240254263,14.01685416,3.33098184,3,3,10,,No,0-20,Top,35,17,1204,1.779999971,"a fine, mixed, active, thermic Typic Argiudoll",5.7,clayloam
+367,Soil organic carbon dynamics under different tillage systems in rotations with perennial pastures,Soil and Tillage Research,2014,L. Salvo,Uruguay,-32.35,-58.03333333,MAOC,13.59550584,3.244723579,12.90262193,3.066194373,3,3,10,,No,0-20,Top,35,17,1204,1.779999971,"a fine, mixed, active, thermic Typic Argiudoll",5.7,clayloam
+368,Soil organic carbon dynamics under different tillage systems in rotations with perennial pastures,Soil and Tillage Research,2014,L. Salvo,Uruguay,-32.35,-58.03333333,MAOC,11.97565562,2.858127726,12.13483166,2.883735782,3,3,10,,No,0-20,Top,35,17,1204,1.779999971,"a fine, mixed, active, thermic Typic Argiudoll",5.7,clayloam
+369,Soil organic carbon dynamics under different tillage systems in rotations with perennial pastures,Soil and Tillage Research,2014,L. Salvo,Uruguay,-32.35,-58.03333333,POC,1.076779044,0.197644582,1.32022474,0.346013627,3,3,10,,No,0-20,Top,35,17,1204,1.779999971,"a fine, mixed, active, thermic Typic Argiudoll",5.7,clayloam
+370,Soil organic carbon dynamics under different tillage systems in rotations with perennial pastures,Soil and Tillage Research,2014,L. Salvo,Uruguay,-32.35,-58.03333333,POC,0.599250946,0.109993507,0.411985025,0.107975884,3,3,10,,No,0-20,Top,35,17,1204,1.779999971,"a fine, mixed, active, thermic Typic Argiudoll",5.7,clayloam
+371,Soil organic carbon dynamics under different tillage systems in rotations with perennial pastures,Soil and Tillage Research,2014,L. Salvo,Uruguay,-32.35,-58.03333333,POC,0.252808993,0.046403511,0.318352065,0.08343591,3,3,10,,No,0-20,Top,35,17,1204,1.779999971,"a fine, mixed, active, thermic Typic Argiudoll",5.7,clayloam
+372,Soil organic carbon dynamics under different tillage systems in rotations with perennial pastures,Soil and Tillage Research,2014,L. Salvo,Uruguay,-32.35,-58.03333333,SOC,21.94214876,2.066115702,23.47107438,3.140495868,3,3,10,,No,0-20,Top,35,17,1204,1.779999971,"a fine, mixed, active, thermic Typic Argiudoll",5.7,clayloam
+373,Soil organic carbon dynamics under different tillage systems in rotations with perennial pastures,Soil and Tillage Research,2014,L. Salvo,Uruguay,-32.35,-58.03333333,SOC,20.04132231,0.909090909,18.55371901,2.644628099,3,3,10,,No,0-20,Top,35,17,1204,1.779999971,"a fine, mixed, active, thermic Typic Argiudoll",5.7,clayloam
+374,Soil organic carbon dynamics under different tillage systems in rotations with perennial pastures,Soil and Tillage Research,2014,L. Salvo,Uruguay,-32.35,-58.03333333,SOC,17.31404959,1.694214876,18.09917355,3.05785124,3,3,10,,No,0-20,Top,35,17,1204,1.779999971,"a fine, mixed, active, thermic Typic Argiudoll",5.7,clayloam
+375,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,MAOC,4.59,1.095456205,4.83,1.147806926,3,3,4,,Yes,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+376,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,MAOC,4.59,1.095456205,4.79,1.138301279,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+377,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,MAOC,4.44,1.059656983,4.61,1.095525866,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+378,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,MAOC,5.2,1.241039709,5.43,1.290391638,3,3,4,,Yes,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+379,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,MAOC,5.02,1.198080642,5.29,1.257121872,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+380,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,MAOC,4.69,1.119322353,4.91,1.166818221,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+381,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,POC,1.6,0.293682658,1.93,0.505827742,3,3,4,,Yes,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+382,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,POC,1.67,0.306531275,1.86,0.487481658,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+383,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,POC,1.53,0.280834042,1.68,0.440306014,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+384,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,POC,2.32,0.425839855,2.42,0.63425033,3,3,4,,Yes,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+385,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,POC,2.19,0.401978139,2.41,0.631629461,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+386,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,POC,1.94,0.356090223,2.09,0.547761648,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+387,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,SOC,5.557281553,0.941968459,5.781553398,1.217655695,3,3,4,,Yes,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+388,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,SOC,5.598058252,0.948880177,5.747572816,1.210499029,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+389,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,SOC,5.54368932,0.939664552,5.686407767,1.197617029,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+390,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,SOC,6.203738318,1.051543954,6.36728972,1.341017899,3,3,4,,Yes,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+391,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,SOC,6.190654206,1.049326176,6.308411215,1.328617469,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+392,Soil organic carbon sequestration and modeling under conservation tillage and cropping systems in a rainfed agriculture,European Journal of Agronomy,2023,Sana ur Rehman,Pakistan,32.16666667,73.91666667,SOC,6.053271028,1.026039499,6.223364486,1.310705737,3,3,4,,No,0-20,Top,215,23.14999986,350,1.679999948,,7.87,sandyloam
+393,Stover management modifies soil organic carbon dynamics in the short-term under semiarid continuous maize,Soil and Tillage Research,2021,Jorge Álvaro-Fuentes,Spain,41.7,0.816666667,MAOC,7.42,1.770868201,7.35,1.746662714,3,3,5,269,Yes,0-20,Top,225,14.1,298,1.830000043,Typical Xerofluvent,7.9,siltyloam
+394,Stover management modifies soil organic carbon dynamics in the short-term under semiarid continuous maize,Soil and Tillage Research,2021,Jorge Álvaro-Fuentes,Spain,41.7,0.816666667,POC,1.43,0.262478876,1.38,0.36167994,3,3,5,269,Yes,0-20,Top,225,14.1,298,1.830000043,Typical Xerofluvent,7.9,siltyloam
+395,Stover management modifies soil organic carbon dynamics in the short-term under semiarid continuous maize,Soil and Tillage Research,2021,Jorge Álvaro-Fuentes,Spain,41.7,0.816666667,SOC,8.85,1.500089707,8.73,1.838629428,3,3,5,269,Yes,0-20,Top,225,14.1,298,1.830000043,Typical Xerofluvent,7.9,siltyloam
+396,Stratification ratio of organic matter pools influenced by management systems in a weathered Oxisol from a tropical agro-ecoregion in Brazil,Soil Research,2013,C. C. Figueiredo,Brazil,-15.59166667,-47.7,MAOC,13.36448598,3.189588038,13.55140187,3.220371207,3,3,5,60,No,0-20,Top,1014,26,1500,1.07,"Typic
+Haplustox",5,clay
+397,Stratification ratio of organic matter pools influenced by management systems in a weathered Oxisol from a tropical agro-ecoregion in Brazil,Soil Research,2013,C. C. Figueiredo,Brazil,-15.59166667,-47.7,MAOC,13.94230769,3.327491824,16.63461538,3.953069722,3,3,5,60,No,0-20,Top,1014,26,1500,1.04,"Typic
+Haplustox",4.7,clay
+398,Stratification ratio of organic matter pools influenced by management systems in a weathered Oxisol from a tropical agro-ecoregion in Brazil,Soil Research,2013,C. C. Figueiredo,Brazil,-15.59166667,-47.7,MAOC,13.27102804,3.167283226,14.76635514,3.509094142,3,3,5,60,No,20-40,Sub,1014,26,1500,1.07,"Typic
+Haplustox",4.8,sandyloam
+399,Stratification ratio of organic matter pools influenced by management systems in a weathered Oxisol from a tropical agro-ecoregion in Brazil,Soil Research,2013,C. C. Figueiredo,Brazil,-15.59166667,-47.7,POC,6.635514019,1.217959623,9.158878505,2.400422195,3,3,5,60,No,0-20,Top,1014,26,1500,1.07,"Typic
+Haplustox",5,clay
+400,Stratification ratio of organic matter pools influenced by management systems in a weathered Oxisol from a tropical agro-ecoregion in Brazil,Soil Research,2013,C. C. Figueiredo,Brazil,-15.59166667,-47.7,POC,6.730769231,1.235443875,3.942307692,1.033227254,3,3,5,60,No,0-20,Top,1014,26,1500,1.04,"Typic
+Haplustox",4.7,clay
+401,Stratification ratio of organic matter pools influenced by management systems in a weathered Oxisol from a tropical agro-ecoregion in Brazil,Soil Research,2013,C. C. Figueiredo,Brazil,-15.59166667,-47.7,POC,3.130841121,0.57467109,3.411214953,0.894034797,3,3,5,60,No,20-40,Sub,1014,26,1500,1.07,"Typic
+Haplustox",4.8,sandyloam
+402,Stratification ratio of organic matter pools influenced by management systems in a weathered Oxisol from a tropical agro-ecoregion in Brazil,Soil Research,2013,C. C. Figueiredo,Brazil,-15.59166667,-47.7,SOC,20.09345794,3.405874513,22.71028037,4.783022889,3,3,5,60,No,0-20,Top,1014,26,1500,1.07,"Typic
+Haplustox",5,clay
+403,Stratification ratio of organic matter pools influenced by management systems in a weathered Oxisol from a tropical agro-ecoregion in Brazil,Soil Research,2013,C. C. Figueiredo,Brazil,-15.59166667,-47.7,SOC,20.76923077,3.52041913,20.57692308,4.3337155,3,3,5,60,No,0-20,Top,1014,26,1500,1.04,"Typic
+Haplustox",4.7,clay
+404,Stratification ratio of organic matter pools influenced by management systems in a weathered Oxisol from a tropical agro-ecoregion in Brazil,Soil Research,2013,C. C. Figueiredo,Brazil,-15.59166667,-47.7,SOC,16.40186916,2.780144079,18.13084112,3.818545023,3,3,5,60,No,20-40,Sub,1014,26,1500,1.07,"Typic
+Haplustox",4.8,sandyloam
+405,Tillage Effects on Particulate and Mineral‐Associated Organic Matter in Two Tropical Brazilian Soils,Communications in Soil Science and Plant Analysis,2006,Cimélio Bayer,Brazil,-16.665,-49.28583333,MAOC,11.019879,2.630020659,11.1639297,2.653009491,3,3,8,,No,0-20,Top,725,23.8,1581,,"Sandy clay loam
+haplic ferralsol",5.1,clayloam
+406,Tillage Effects on Particulate and Mineral‐Associated Organic Matter in Two Tropical Brazilian Soils,Communications in Soil Science and Plant Analysis,2006,Cimélio Bayer,Brazil,-16.665,-49.28583333,MAOC,18.58254105,4.434936798,18.65456641,4.433093278,3,3,8,,No,0-20,Top,725,24.8,1929,,"Clayey rhodic
+ferralsol",5.2,clay
+407,Tillage Effects on Particulate and Mineral‐Associated Organic Matter in Two Tropical Brazilian Soils,Communications in Soil Science and Plant Analysis,2006,Cimélio Bayer,Brazil,-16.665,-49.28583333,POC,3.74181024,0.686815486,4.528027178,1.186736666,3,3,8,,No,0-20,Top,725,23.8,1581,,"Sandy clay loam
+haplic ferralsol",5.1,clayloam
+408,Tillage Effects on Particulate and Mineral‐Associated Organic Matter in Two Tropical Brazilian Soils,Communications in Soil Science and Plant Analysis,2006,Cimélio Bayer,Brazil,-16.665,-49.28583333,POC,2.183935938,0.40086507,3.363261344,0.881466784,3,3,8,,No,0-20,Top,725,24.8,1929,,"Clayey rhodic
+ferralsol",5.2,clay
+409,Tillage Effects on Particulate and Mineral‐Associated Organic Matter in Two Tropical Brazilian Soils,Communications in Soil Science and Plant Analysis,2006,Cimélio Bayer,Brazil,-16.665,-49.28583333,SOC,14.75769231,2.501453371,15.68846154,4.111740457,3,3,8,,No,0-20,Top,725,23.8,1581,,"Sandy clay loam
+haplic ferralsol",5.1,clayloam
+410,Tillage Effects on Particulate and Mineral‐Associated Organic Matter in Two Tropical Brazilian Soils,Communications in Soil Science and Plant Analysis,2006,Cimélio Bayer,Brazil,-16.665,-49.28583333,SOC,20.76153846,3.519115271,22.01692308,4.636994581,3,3,8,,No,0-20,Top,725,24.8,1929,,"Clayey rhodic
+ferralsol",5.2,clay
+411,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,MAOC,6.54,1.560846096,6.7,1.592195943,4,4,40,67,Yes,0-20,Top,113,15.6,1300,1.659999967,"fine-silty,
+mixed, thermic Ultic Hapludalfs",5.900000095,loam
+412,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,MAOC,5.37,1.281612161,6.12,1.454364056,4,4,40,67,Yes,0-20,Top,113,15.6,1300,1.659999967,"fine-silty,
+mixed, thermic Ultic Hapludalfs",5.900000095,loam
+413,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,MAOC,4.09,0.976125464,2.98,0.708170733,4,4,40,67,Yes,20-40,Sub,113,15.6,1300,1.779999971,"fine-silty,
+mixed, thermic Ultic Hapludalfs",6,loam
+414,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,MAOC,2.79,0.665865536,1.63,0.387355133,4,4,40,67,Yes,40-60,Sub,113,15.6,1300,1.840000033,"fine-silty,
+mixed, thermic Ultic Hapludalfs",6,clayloam
+415,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,POC,1.12,0.205577861,3.86,1.011655485,4,4,40,67,Yes,0-20,Top,113,15.6,1300,1.659999967,"fine-silty,
+mixed, thermic Ultic Hapludalfs",5.900000095,loam
+416,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,POC,0.44,0.080762731,0.8,0.209669531,4,4,40,67,Yes,0-20,Top,113,15.6,1300,1.659999967,"fine-silty,
+mixed, thermic Ultic Hapludalfs",5.900000095,loam
+417,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,POC,0.34,0.062407565,0.29,0.076005205,4,4,40,67,Yes,20-40,Sub,113,15.6,1300,1.779999971,"fine-silty,
+mixed, thermic Ultic Hapludalfs",6,loam
+418,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,POC,0.12,0.022026199,0.06,0.015725215,4,4,40,67,Yes,40-60,Sub,113,15.6,1300,1.840000033,"fine-silty,
+mixed, thermic Ultic Hapludalfs",6,clayloam
+419,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,SOC,9.78,1.657726253,12.98,2.733723938,4,4,40,67,Yes,0-20,Top,113,15.6,1300,1.659999967,"fine-silty,
+mixed, thermic Ultic Hapludalfs",5.900000095,loam
+420,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,SOC,6.44,1.091590702,6.2,1.305784932,4,4,40,67,Yes,0-20,Top,113,15.6,1300,1.659999967,"fine-silty,
+mixed, thermic Ultic Hapludalfs",5.900000095,loam
+421,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,SOC,4.13,0.700041863,3.59,0.756091598,4,4,40,67,Yes,20-40,Sub,113,15.6,1300,1.779999971,"fine-silty,
+mixed, thermic Ultic Hapludalfs",6,loam
+422,Winter wheat cover crop increased subsoil organic carbon in a long-term cotton cropping system in Tennessee,Soil and Tillage Research,2022,Rounak Patra,USA,35.61666667,-88.83333333,SOC,2.37,0.401718939,2.36,0.497040716,4,4,40,67,Yes,40-60,Sub,113,15.6,1300,1.840000033,"fine-silty,
+mixed, thermic Ultic Hapludalfs",6,clayloam
+423,"Soil fertility, physical and chemical organic matter fractions, natural 13C and 15N abundance in biogenic and physicogenic aggregates in areas under different land use systems",Soil Research,2014,Arcângelo Loss,Brazil,-26.24536111,-53.17222222,MAOC,15.12,3.608561616,20.91,4.969077191,4,4,15,,Yes,0-20,Top,753,17.70833325,2006,1.99000001,Alfisol,6.25,clay
+424,"Soil fertility, physical and chemical organic matter fractions, natural 13C and 15N abundance in biogenic and physicogenic aggregates in areas under different land use systems",Soil Research,2014,Arcângelo Loss,Brazil,-26.24536111,-53.17222222,MAOC,15.22,3.632427764,18.55,4.408243993,4,4,15,,Yes,0-20,Top,753,17.70833325,2006,1.99000001,Alfisol,5.69,clay
+425,"Soil fertility, physical and chemical organic matter fractions, natural 13C and 15N abundance in biogenic and physicogenic aggregates in areas under different land use systems",Soil Research,2014,Arcângelo Loss,Brazil,-26.24536111,-53.17222222,POC,3.2,0.587365317,4.38,1.14794068,4,4,15,,Yes,0-20,Top,753,17.70833325,2006,1.99000001,Alfisol,6.25,clay
+426,"Soil fertility, physical and chemical organic matter fractions, natural 13C and 15N abundance in biogenic and physicogenic aggregates in areas under different land use systems",Soil Research,2014,Arcângelo Loss,Brazil,-26.24536111,-53.17222222,POC,2.88,0.528628785,3.74,0.980205055,4,4,15,,Yes,0-20,Top,753,17.70833325,2006,1.99000001,Alfisol,5.69,clay
+427,"Soil fertility, physical and chemical organic matter fractions, natural 13C and 16N abundance in biogenic and physicogenic aggregates in areas under different land use systems",Soil Research,2014,Arcângelo Loss,Brazil,-26.24536111,-53.17222222,SOC,18.32,3.105270445,24.65,5.191548157,4,4,15,,Yes,0-20,Top,753,17.70833325,2006,1.99000001,Alfisol,6.25,clay
+428,"Soil fertility, physical and chemical organic matter fractions, natural 13C and 17N abundance in biogenic and physicogenic aggregates in areas under different land use systems",Soil Research,2014,Arcângelo Loss,Brazil,-26.24536111,-53.17222222,SOC,18.1,3.067980079,22.29,4.694507441,4,4,15,,Yes,0-20,Top,753,17.70833325,2006,1.99000001,Alfisol,5.69,clay
+429,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,MAOC,20.8,4.964158837,25.01,5.943406052,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+430,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,MAOC,21.36,5.097809267,22.54,5.356432323,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+431,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,MAOC,20.02,4.778002881,18.11,4.303681871,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+432,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,MAOC,14.86,3.546509631,12.79,3.039430764,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+433,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,MAOC,12.53,2.990428376,14.96,3.555112137,3,3,13,158.25,No,20-40,Sub,232,1.5,530,1.2,典型黑土,6.400000095,loam
+434,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,MAOC,12.17,2.904510243,13.97,3.319847363,3,3,13,158.25,No,40-60,Sub,232,1.5,530,1.2,典型黑土,6.599999905,loam
+435,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,MAOC,8.99,2.145566728,12.47,2.963385584,3,3,13,158.25,No,60-80,Sub,232,1.5,530,,典型黑土,6.800000191,loam
+436,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,MAOC,9.9,2.362748677,7.03,1.670617535,3,3,13,158.25,No,80-100,Sub,232,1.5,530,,典型黑土,6.900000095,loam
+437,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,POC,5.48,1.005863105,9.24,2.421683078,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+438,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,POC,2.22,0.407484688,3.76,0.985446793,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+439,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,POC,2.52,0.462550187,1.93,0.505827742,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+440,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,POC,1.37,0.251465776,1.52,0.398372108,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+441,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,POC,1.12,0.205577861,1.39,0.364300809,3,3,13,158.25,No,20-40,Sub,232,1.5,530,1.2,典型黑土,6.400000095,loam
+442,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,POC,0.89,0.163360979,2.61,0.684046843,3,3,13,158.25,No,40-60,Sub,232,1.5,530,1.2,典型黑土,6.599999905,loam
+443,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,POC,0.65,0.11930858,2.18,0.571349471,3,3,13,158.25,No,60-80,Sub,232,1.5,530,,典型黑土,6.800000191,loam
+444,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,POC,1.04,0.190893728,1.62,0.424580799,3,3,13,158.25,No,80-100,Sub,232,1.5,530,,典型黑土,6.900000095,loam
+445,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,SOC,23.81201044,1.253263708,33.8381201,4.386422977,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+446,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,SOC,22.66318538,2.088772846,29.34725849,0.939947781,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+447,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,SOC,21.30548303,2.193211488,23.81201044,1.462140992,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+448,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,SOC,17.33681462,1.984334204,16.50130548,4.07310705,3,3,13,158.25,No,0-20,Top,232,1.5,530,1.3,典型黑土,6.199999809,loam
+449,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,SOC,13.15926893,1.148825065,15.14360313,2.506527415,3,3,13,158.25,No,20-40,Sub,232,1.5,530,1.2,典型黑土,6.400000095,loam
+450,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,SOC,11.90600522,1.566579634,13.5770235,1.879895561,3,3,13,158.25,No,40-60,Sub,232,1.5,530,1.2,典型黑土,6.599999905,loam
+451,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,SOC,10.8616188,2.7154047,14.83028721,0.731070496,3,3,13,158.25,No,60-80,Sub,232,1.5,530,,典型黑土,6.800000191,loam
+452,长期保护性耕作对坡耕地黑土有机碳组分的影响,农 业 工 程 学 报,2023,朱 勇,CHINA,47.35470833,126.8323417,SOC,10.75718016,1.462140992,8.877284595,1.566579634,3,3,13,158.25,No,80-100,Sub,232,1.5,530,,典型黑土,6.900000095,loam
+453,No-tillage promotes C accumulation in soil and a slight increase in yield stability and profitability of rice in subtropical lowland ecosystems,Soil Research,2022,Filipe Selau Carlos,Brazil,-29.95055556,-51.08388889,MAOC,5.377095087,1.283305485,6.256983374,1.486916947,3,3,24,129,Yes,0-20,Top,7,18.4,1412,1.789999962,,6.2,sandyloam
+454,No-tillage promotes C accumulation in soil and a slight increase in yield stability and profitability of rice in subtropical lowland ecosystems,Soil Research,2022,Filipe Selau Carlos,Brazil,-29.95055556,-51.08388889,POC,1.13128494,0.20764923,1.50837992,0.395326637,3,3,24,129,Yes,0-20,Top,7,18.4,1412,1.789999962,,6.2,sandyloam
+455,No-tillage promotes C accumulation in soil and a slight increase in yield stability and profitability of rice in subtropical lowland ecosystems,Soil Research,2022,Filipe Selau Carlos,Brazil,-29.95055556,-51.08388889,SOC,6.494413408,1.100813865,7.765363128,1.635466801,3,3,24,129,Yes,0-20,Top,7,18.4,1412,1.789999962,,6.2,sandyloam
+456,"Carbon and nitrogen content in granulometric fractions of organic
+matter in soil aggregates under no-tillage and conventional tillage
+planting systems for onions",,2018,Luiz Henrique dos Santos,Brazil,-27.41444444,-49.6025,MAOC,18.91737892,4.514849698,20.05698006,4.76636452,5,5,17,160,Yes,0-20,Top,475,17.4,1400,,Humic Dystrudepts,6,clayloam
+457,"Carbon and nitrogen content in granulometric fractions of organic
+matter in soil aggregates under no-tillage and conventional tillage
+planting systems for onions",,2018,Luiz Henrique dos Santos,Brazil,-27.41444444,-49.6025,MAOC,18.68945869,4.460453919,20.28490028,4.820527753,5,5,17,160,Yes,0-20,Top,475,17.4,1400,,Humic Dystrudepts,6,clayloam
+458,"Carbon and nitrogen content in granulometric fractions of organic
+matter in soil aggregates under no-tillage and conventional tillage
+planting systems for onions",,2018,Luiz Henrique dos Santos,Brazil,-27.41444444,-49.6025,MAOC,19.14529915,4.569245478,18.57549858,4.414303505,5,5,17,160,Yes,0-20,Top,475,17.4,1400,,Humic Dystrudepts,,clayloam
+459,"Carbon and nitrogen content in granulometric fractions of organic
+matter in soil aggregates under no-tillage and conventional tillage
+planting systems for onions",,2018,Luiz Henrique dos Santos,Brazil,-27.41444444,-49.6025,POC,12.69,2.329270583,14.51,3.80288111,5,5,17,160,Yes,0-20,Top,475,17.4,1400,,Humic Dystrudepts,6,clayloam
+460,"Carbon and nitrogen content in granulometric fractions of organic
+matter in soil aggregates under no-tillage and conventional tillage
+planting systems for onions",,2018,Luiz Henrique dos Santos,Brazil,-27.41444444,-49.6025,POC,12.45714286,2.286529268,11.54285714,3.025231797,5,5,17,160,Yes,0-20,Top,475,17.4,1400,,Humic Dystrudepts,6,clayloam
+461,"Carbon and nitrogen content in granulometric fractions of organic
+matter in soil aggregates under no-tillage and conventional tillage
+planting systems for onions",,2018,Luiz Henrique dos Santos,Brazil,-27.41444444,-49.6025,POC,12.11428571,2.22359727,12,3.145042958,5,5,17,160,Yes,0-20,Top,475,17.4,1400,,Humic Dystrudepts,,clayloam
+462,"Carbon and nitrogen content in granulometric fractions of organic
+matter in soil aggregates under no-tillage and conventional tillage
+planting systems for onions",,2018,Luiz Henrique dos Santos,Brazil,-27.41444444,-49.6025,SOC,31.6,5.356252514,34.56,7.278697944,5,5,17,160,Yes,0-20,Top,475,17.4,1400,,Humic Dystrudepts,6,clayloam
+463,"Carbon and nitrogen content in granulometric fractions of organic
+matter in soil aggregates under no-tillage and conventional tillage
+planting systems for onions",,2018,Luiz Henrique dos Santos,Brazil,-27.41444444,-49.6025,SOC,31.13,5.276586732,31.82,6.701625248,5,5,17,160,Yes,0-20,Top,475,17.4,1400,,Humic Dystrudepts,6,clayloam
+464,"Carbon and nitrogen content in granulometric fractions of organic
+matter in soil aggregates under no-tillage and conventional tillage
+planting systems for onions",,2018,Luiz Henrique dos Santos,Brazil,-27.41444444,-49.6025,SOC,31.25,5.296926932,30.57,6.438362157,5,5,17,160,Yes,0-20,Top,475,17.4,1400,,Humic Dystrudepts,,clayloam
+465,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-25.15,-50.15,MAOC,14.04522606,3.352054475,15.97989942,3.797482244,4,4,29,,No,0-20,Top,865,18.5,1545,1.99000001,Rhodic Hapludox,5.5,clay
+466,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-25.15,-50.15,MAOC,11.40394105,2.721681477,11.15763563,2.651513758,4,4,29,,No,20-40,Sub,865,18.5,1545,2.029999971,Rhodic Hapludox,5.400000095,clay
+467,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-25.15,-50.15,MAOC,9.646962369,2.302358341,9.228243151,2.193010643,4,4,29,,No,60-80,Sub,865,18.5,1545,2.029999971,Rhodic Hapludox,5.47,clay
+468,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-13,-55.96666667,MAOC,6.649746096,1.587038262,7.766497349,1.845639638,4,4,29,,No,0-20,Top,380,25.2,1950,1.970000029,Typic Haplustox,4.900000095,clay
+469,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-13,-55.96666667,MAOC,4.775,1.139608579,5.2,1.235734165,4,4,29,,No,20-40,Sub,380,25.2,1950,2,Typic Haplustox,4.900000095,clay
+470,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-13,-55.96666667,MAOC,3.481848218,0.830983058,3.481848218,0.827430539,4,4,29,,No,60-80,Sub,380,25.2,1950,2.019999981,Typic Haplustox,5,clay
+471,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-25.15,-50.15,POC,1.381909541,0.253651792,2.211055266,0.579488649,4,4,29,,No,0-20,Top,865,18.5,1545,1.99000001,Rhodic Hapludox,5.5,clay
+472,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-25.15,-50.15,POC,0.418719218,0.076856608,0.172413796,0.045187399,4,4,29,,No,20-40,Sub,865,18.5,1545,2.029999971,Rhodic Hapludox,5.400000095,clay
+473,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-25.15,-50.15,POC,0.180623976,0.033153831,0.139573073,0.036580276,4,4,29,,No,60-80,Sub,865,18.5,1545,2.029999971,Rhodic Hapludox,5.47,clay
+474,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-13,-55.96666667,POC,1.75126901,0.321448336,2.487309609,0.651891297,4,4,29,,No,0-20,Top,380,25.2,1950,1.970000029,Typic Haplustox,4.900000095,clay
+475,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-13,-55.96666667,POC,0.625,0.114719788,0.65,0.170356494,4,4,29,,No,20-40,Sub,380,25.2,1950,2,Typic Haplustox,4.900000095,clay
+476,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-13,-55.96666667,POC,0.503300335,0.092381613,0.486798684,0.127583565,4,4,29,,No,60-80,Sub,380,25.2,1950,2.019999981,Typic Haplustox,5,clay
+477,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-25.15,-50.15,SOC,16.93467329,2.870455264,21.20603005,4.466212017,4,4,29,,No,0-20,Top,865,18.5,1545,1.99000001,Rhodic Hapludox,5.5,clay
+478,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-25.15,-50.15,SOC,13.02955683,2.208531536,13.10344846,2.759723477,4,4,29,,No,20-40,Sub,865,18.5,1545,2.029999971,Rhodic Hapludox,5.400000095,clay
+479,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-25.15,-50.15,SOC,10.60755352,1.797997949,10.58292297,2.228874412,4,4,29,,No,60-80,Sub,865,18.5,1545,2.029999971,Rhodic Hapludox,5.47,clay
+480,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-13,-55.96666667,SOC,8.578680078,1.45410053,11.21827395,2.362685982,4,4,29,,No,0-20,Top,380,25.2,1950,1.970000029,Typic Haplustox,4.900000095,clay
+481,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-13,-55.96666667,SOC,5.45,0.923784057,6.275,1.321580717,4,4,29,,No,20-40,Sub,380,25.2,1950,2,Typic Haplustox,4.900000095,clay
+482,"Soil organic carbon fraction losses upon continuous plow-based tillage
+and its restoration by diverse biomass-C inputs under no-till in
+sub-tropical and tropical regions of Brazil",Geoderma,2013,Florent Tivet,Brazil,-13,-55.96666667,SOC,4.001650203,0.678286359,4.117161755,0.867117384,4,4,29,,No,60-80,Sub,380,25.2,1950,2.019999981,Typic Haplustox,5,clay
+483,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,MAOC,4.406779709,1.051728578,7.118644145,1.691683034,4,4,16,,No,0-20,Top,330,14.2,430,1.769999981,Typic Xerofl uvent,8.5,siltyloam
+484,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,MAOC,4.632768412,1.105663377,6.327683684,1.503718253,4,4,16,,No,0-20,Top,330,14.2,430,1.769999981,Typic Xerofl uvent,8.5,siltyloam
+485,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,MAOC,4.576271236,1.092179678,4.406779709,1.047232355,4,4,16,,No,0-20,Top,330,14.2,430,1.769999981,Typic Xerofl uvent,8.5,siltyloam
+486,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,MAOC,4.469273838,1.06664352,2.849162072,0.677078253,4,4,16,,No,20-40,Sub,330,14.2,430,1.789999962,Typic Xerofl uvent,8.5,siltyloam
+487,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,MAOC,3.966480531,0.946646124,2.234636919,0.531041767,4,4,16,,No,20-40,Sub,330,14.2,430,1.789999962,Typic Xerofl uvent,8.5,siltyloam
+488,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,MAOC,7.368420888,1.758558253,10.05847931,2.390308948,3,3,19,,No,0-20,Top,475,13.9,475,1.710000038,Fluventic Xerocrept,8.3,loam
+489,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,MAOC,8.421052444,2.009780861,9.005847752,2.140160337,3,3,19,,No,0-20,Top,475,13.9,475,1.710000038,Fluventic Xerocrept,8.3,loam
+490,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,MAOC,7.192982296,1.716687819,6.842105111,1.62596597,3,3,19,,No,0-20,Top,475,13.9,475,1.710000038,Fluventic Xerocrept,8.3,loam
+491,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,MAOC,5.862068933,1.399050062,5.057471237,1.201863461,3,3,19,,No,20-40,Sub,475,13.9,475,1.74000001,Fluventic Xerocrept,8.3,loam
+492,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,MAOC,5.574712613,1.330469177,4.310344804,1.02431545,3,3,19,,No,20-40,Sub,475,13.9,475,1.74000001,Fluventic Xerocrept,8.3,loam
+493,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,MAOC,5.380116839,1.284026661,7.368420888,1.751040276,3,3,17,,Yes,0-20,Top,270,14.5,390,1.710000038,Xerollic Calciorthid,8.23,loam
+494,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,MAOC,6.198830271,1.479422023,7.134502765,1.695451696,3,3,17,,Yes,0-20,Top,270,14.5,390,1.710000038,Xerollic Calciorthid,8.23,loam
+495,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,MAOC,5.847953086,1.395681153,6.549707456,1.556480245,3,3,17,,Yes,0-20,Top,270,14.5,390,1.710000038,Xerollic Calciorthid,8.23,loam
+496,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,MAOC,6.206896518,1.481347125,4.770114916,1.133575764,3,3,17,,Yes,20-40,Sub,270,14.5,390,1.74000001,Xerollic Calciorthid,8.23,loam
+497,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,MAOC,6.37931031,1.522495656,5.862068933,1.393069011,3,3,17,,Yes,20-40,Sub,270,14.5,390,1.74000001,Xerollic Calciorthid,8.23,loam
+498,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,POC,1.920903976,0.352585116,7.231638496,1.89531781,4,4,16,,No,0-20,Top,330,14.2,430,1.769999981,Typic Xerofl uvent,8.5,siltyloam
+499,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,POC,2.146892679,0.394065718,4.51977406,1.184573632,4,4,16,,No,0-20,Top,330,14.2,430,1.769999981,Typic Xerofl uvent,8.5,siltyloam
+500,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,POC,2.316384206,0.425176169,1.694915273,0.444215112,4,4,16,,No,0-20,Top,330,14.2,430,1.769999981,Typic Xerofl uvent,8.5,siltyloam
+501,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,POC,2.793296149,0.512714149,1.564245843,0.409968365,4,4,16,,No,20-40,Sub,330,14.2,430,1.789999962,Typic Xerofl uvent,8.5,siltyloam
+502,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,POC,1.50837992,0.27686564,0.893854768,0.234267637,4,4,16,,No,20-40,Sub,330,14.2,430,1.789999962,Typic Xerofl uvent,8.5,siltyloam
+503,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,POC,4.79532153,0.880189234,6.78362558,1.777899488,3,3,19,,No,0-20,Top,475,13.9,475,1.710000038,Fluventic Xerocrept,8.3,loam
+504,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,POC,3.859649037,0.708444993,1.988304049,0.521108471,3,3,19,,No,0-20,Top,475,13.9,475,1.710000038,Fluventic Xerocrept,8.3,loam
+505,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,POC,2.163742642,0.397158557,0.760233901,0.199247356,3,3,19,,No,0-20,Top,475,13.9,475,1.710000038,Fluventic Xerocrept,8.3,loam
+506,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,POC,2.011494242,0.36921311,0.862068961,0.225936993,3,3,19,,No,20-40,Sub,475,13.9,475,1.74000001,Fluventic Xerocrept,8.3,loam
+507,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,POC,1.321839073,0.242625758,0.689655169,0.180749594,3,3,19,,No,20-40,Sub,475,13.9,475,1.74000001,Fluventic Xerocrept,8.3,loam
+508,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,POC,0.935672494,0.171744241,3.39181279,0.888949744,3,3,17,,Yes,0-20,Top,270,14.5,390,1.710000038,Xerollic Calciorthid,8.23,loam
+509,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,POC,0.584795309,0.10734015,1.403508741,0.367841273,3,3,17,,Yes,0-20,Top,270,14.5,390,1.710000038,Xerollic Calciorthid,8.23,loam
+510,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,POC,1.052631555,0.193212271,0.467836247,0.122613758,3,3,17,,Yes,0-20,Top,270,14.5,390,1.710000038,Xerollic Calciorthid,8.23,loam
+511,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,POC,0.632183905,0.116038406,1.436781601,0.376561655,3,3,17,,Yes,20-40,Sub,270,14.5,390,1.74000001,Xerollic Calciorthid,8.23,loam
+512,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,POC,0.862068961,0.15823419,0.402298848,0.105437263,3,3,17,,Yes,20-40,Sub,270,14.5,390,1.74000001,Xerollic Calciorthid,8.23,loam
+513,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,SOC,8.369565217,1.418655213,18.80434783,3.960392588,4,4,16,,No,0-20,Top,330,14.2,430,1.769999981,Typic Xerofl uvent,8.5,siltyloam
+514,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,SOC,8.369565217,1.418655213,13.58695652,2.861555338,4,4,16,,No,0-20,Top,330,14.2,430,1.769999981,Typic Xerofl uvent,8.5,siltyloam
+515,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,SOC,8.586956522,1.4555034,7.065217391,1.488008776,4,4,16,,No,0-20,Top,330,14.2,430,1.769999981,Typic Xerofl uvent,8.5,siltyloam
+516,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,SOC,8.913043478,1.510775681,5.108695652,1.075944807,4,4,16,,No,20-40,Sub,330,14.2,430,1.789999962,Typic Xerofl uvent,8.5,siltyloam
+517,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.8,1.116666667,SOC,6.195652174,1.05017334,3.695652174,0.778343052,4,4,16,,No,20-40,Sub,330,14.2,430,1.789999962,Typic Xerofl uvent,8.5,siltyloam
+518,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,SOC,15.28384279,2.590636753,22.48908297,4.736436399,3,3,19,,No,0-20,Top,475,13.9,475,1.710000038,Fluventic Xerocrept,8.3,loam
+519,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,SOC,13.64628821,2.313068529,11.35371179,2.391210609,3,3,19,,No,0-20,Top,475,13.9,475,1.710000038,Fluventic Xerocrept,8.3,loam
+520,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,SOC,10.69868996,1.813445727,7.860262009,1.655453499,3,3,19,,No,0-20,Top,475,13.9,475,1.710000038,Fluventic Xerocrept,8.3,loam
+521,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,SOC,8.84279476,1.498868407,5.786026201,1.218597714,3,3,19,,No,20-40,Sub,475,13.9,475,1.74000001,Fluventic Xerocrept,8.3,loam
+522,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.83333333,1.283333333,SOC,7.860262009,1.332327473,5.240174672,1.103635666,3,3,19,,No,20-40,Sub,475,13.9,475,1.74000001,Fluventic Xerocrept,8.3,loam
+523,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,SOC,9.130434783,1.547623869,13.91304348,2.930232667,3,3,17,,Yes,0-20,Top,270,14.5,390,1.710000038,Xerollic Calciorthid,8.23,loam
+524,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,SOC,10,1.695016618,9.239130435,1.94585763,3,3,17,,Yes,0-20,Top,270,14.5,390,1.710000038,Xerollic Calciorthid,8.23,loam
+525,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,SOC,9.347826087,1.584472056,8.47826087,1.785610531,3,3,17,,Yes,0-20,Top,270,14.5,390,1.710000038,Xerollic Calciorthid,8.23,loam
+526,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,SOC,9.347826087,1.584472056,8.369565217,1.762718088,3,3,17,,Yes,20-40,Sub,270,14.5,390,1.74000001,Xerollic Calciorthid,8.23,loam
+527,Tillage Effects on Soil Organic Carbon Fractions in Mediterranean Dryland Agroecosystems,Soil Science Society of America Journal,2008,J. Álvaro-Fuentes,Spain,41.73333333,-0.766666667,SOC,9.565217391,1.621320243,8.043478261,1.69404076,3,3,17,,Yes,20-40,Sub,270,14.5,390,1.74000001,Xerollic Calciorthid,8.23,loam
